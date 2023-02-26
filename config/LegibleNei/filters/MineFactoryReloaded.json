@@ -1,0 +1,8 @@
+{
+mineFactoryReloaded:[
+    {keep:[[],[0]]};
+    {hide:[[bucket*],[]]};
+	{hide:[[conveyor],[0-15]]};
+	{hide:[[stainedglass.pane,stainedglass.block],[1-15]]};
+]
+}

@@ -1,0 +1,41 @@
+{
+	"name": "silicon",
+	"renderblock": "Railcraft:cube",
+	"renderblockMeta": 1,
+	"renderore": "EnderIO:itemMaterial",
+	"renderoreMeta": 0,
+	"whitelist": {
+		"oredict": ["itemSilicon"],
+		"ingots": ["item:Silicon"],
+		"dusts": ["EnderIO:itemMaterial"],
+		"blocks": [],
+		"ores": []
+	},
+	"blacklist": {
+		"oredict": ["adamantiodic_material"],
+		"ores": ["simpleores:adamantium_ore"]
+	},
+	"toolData": {
+		"ID": 152,
+		"harvestLevel": 0,
+		"durability": 25,
+		"miningspeed": 1,
+		"attack": 1,
+		"handleModifier": 2.5,
+		"reinforced": 0,
+		"stonebound": 0,
+		"color": "#5b5e5d",
+		"temperature": 50,
+		"drawspeed": 1,
+		"projectilespeed": 1.0,
+		"projectilemass": 2.0,
+		"projectilefragility": 0.9
+	},
+	"localizations": [{
+		"locale": "en_US",
+		"solid": "Silicon",
+		"liquid": "Molten Silicon",
+		"fluid": "Molten Silicon",
+		"bucket": "Molten Silicon Bucket"
+	}]
+}

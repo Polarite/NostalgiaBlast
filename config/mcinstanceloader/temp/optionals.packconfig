@@ -1,0 +1,30 @@
+
+
+[Menu 1]
+
+title = [Optional Mods]   
+
+maxchoices = 1     
+minchoices = 1    
+
+
+option1.name = Optifine   
+option1.description = Install Optifine and fastcraft with more features but with less optimization. We cant support you if theres an issue related to optifine sadly.   # The description of the option, used to indicate more precisely to the user what this choice does.
+option1.default = true
+option1.resources = Optifine, FastCraft
+
+
+option2.name = Custom Optimizations
+option2.description = These are the optimizations made by the developers of the pack. Higher optimization. Less features.
+option2.default = true
+option2.resources = Notfine
+
+
+
+[Menu 2]
+title = [Resource Packs]
+
+option1.name = Updated Textures For Mods
+option1.description = This is the updated textures for the modpack specially made by me, it has updated textures for most mods.
+option1.default = true
+option1.resources = updatedtextures 

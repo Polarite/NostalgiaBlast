@@ -1,0 +1,8 @@
+{
+witchery:[
+    {keep:[[],[0]]};
+    {hide:[[*bucket*,*portal,*bramble,*leaves,spectralstone],[]]};
+    {hide:[[circletalisman],[1-2000]]};
+	{hide:[[shadedglass,shadedglass_active],[1-15]]};
+]
+}

@@ -1,0 +1,33 @@
+[20:45:43] INFO: Current mod version is 2.5
+[20:45:43] INFO: The mod correctly entered the preInit stage.
+[20:45:43] INFO: Generating the mod info page...
+[20:45:43] INFO: The current side is client .
+[20:45:43] INFO: Generating the config file...
+[20:45:43] INFO: Detecting files scheduled for deletion
+[20:45:43] INFO: name: mcinstanceloader-2.5.jar | size: 340728
+[20:45:43] INFO: Found a leftover temp directory, removed it.
+
+[20:45:44] INFO: Update checker: The mod is properly updated.
+[20:45:44] INFO: Found pack.instance, starting the installation process.
+
+[20:45:44] INFO: Found a resources.packconfig file, starting the download process.
+[20:45:44] INFO: Getting the blacklist from StopModReposts.org...
+
+==================================================
+[20:45:44] INFO: NAME:   UniMixins
+[20:45:44] INFO: DESTINATION:   config\mcinstanceloader\temp\overrides\mods\_unimixins-all-1.7.10-0.1.4.jar
+[20:45:44] INFO: SIDE:   both
+[20:45:44] INFO: TYPE:   url
+[20:45:44] INFO: OPTIONAL:   false
+[20:45:44] INFO: URL:   https://github.com/LegacyModdingMC/UniMixins/releases/download/0.1.4/_unimixins-all-1.7.10-0.1.4.jar
+[20:45:44] INFO: Attempting to download the resource UniMixins... (1/164 resources)
+==================================================
+
+==================================================
+[20:45:47] INFO: NAME:   AE2 Fluid Crafting
+[20:45:47] INFO: DESTINATION:   config\mcinstanceloader\temp\overrides\mods\ae2fc-1.0.83-gtnh.jar
+[20:45:47] INFO: SIDE:   both
+[20:45:47] INFO: TYPE:   url
+[20:45:47] INFO: OPTIONAL:   false
+[20:45:47] INFO: URL:   https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.0.83-gtnh/ae2fc-1.0.83-gtnh.jar
+[20:45:47] INFO: Attempting to download the resource AE2 Fluid Crafting... (2/164 resources)

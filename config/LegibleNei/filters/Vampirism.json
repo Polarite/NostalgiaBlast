@@ -1,0 +1,6 @@
+{
+Vampirism:[
+    {keep:[[],[0]]};
+    {hide:[[*spawn_egg*,blockcoffin,*portal*,tent,tent_main],[]]};
+]
+}

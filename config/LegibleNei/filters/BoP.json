@@ -1,0 +1,6 @@
+{
+biomesoplenty:[
+    {keep:[[],[0]]};
+    {hide:[[*dirt*,*grass*,*farmland*,*leaves*,foliage,flowers*,plants,stoneformations,*vine*,*lily*,mushrooms,coral*,turnip,willow,ivy,treemoss,wisteria],[]]};
+]
+}

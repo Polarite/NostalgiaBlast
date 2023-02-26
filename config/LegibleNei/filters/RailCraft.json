@@ -1,0 +1,6 @@
+{
+railcraft:[
+    {keep:[[],[0]]};
+    {hide:[[*bucket,ore,worldlogic,firestone.recharge],[]]};
+]
+}

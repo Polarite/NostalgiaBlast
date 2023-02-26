@@ -1,0 +1,10 @@
+{
+chisel:[
+	{keep:[[*],[0]]};
+	{hide:[[pumpkin*,jackolantern*,*stairs*,*pane*,amber,bloodbrick],[]]};
+	{show:[[pumpkin1,jackolantern1],[0]]};
+],
+metallurgychisel:[
+	{keep:[[*],[0]]};
+]
+}

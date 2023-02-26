@@ -1,0 +1,1639 @@
+
+#Github
+
+[UniMixins]
+type = url
+
+destination = mods/_unimixins-all-1.7.10-0.1.4.jar
+
+url = https://github.com/LegacyModdingMC/UniMixins/releases/download/0.1.4/_unimixins-all-1.7.10-0.1.4.jar
+
+[AE2 Fluid Crafting]
+type = url
+
+destination = mods/ae2fc-1.0.83-gtnh.jar
+
+url = https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.0.83-gtnh/ae2fc-1.0.83-gtnh.jar
+
+[AE2 Stuff]
+type = url
+
+destination = mods/ae2stuff-1.7.10-0.5.1.15-GTNH.jar
+
+url = https://github.com/GTNewHorizons/ae2stuff/releases/download/0.5.1.15-GTNH/ae2stuff-1.7.10-0.5.1.15-GTNH.jar
+
+[AE2]
+type = url
+
+destination = mods/appliedenergistics2-rv3-beta-166-GTNH-pre.jar
+
+url = https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-166-GTNH-pre/appliedenergistics2-rv3-beta-166-GTNH-pre.jar
+
+[ArchaicFix]
+type = url
+
+destination = mods/archaicfix-0.5.0.jar
+
+url = https://github.com/embeddedt/ArchaicFix/releases/download/0.5.0/archaicfix-0.5.0.jar
+
+[Backpack]
+type = url
+
+destination = mods/backpack-1.7.10-2.2.8-GTNH.jar
+
+url = https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/releases/download/2.2.8-GTNH/backpack-1.7.10-2.2.8-GTNH.jar
+
+[Backport5160]
+type = url
+
+destination = mods/backport5160-1.1m.jar
+
+url = https://github.com/makamys/minecraft-backport5160/releases/download/v1.1m/backport5160-1.1m.jar
+
+[Bdlib]
+type = url
+
+destination = mods/bdlib-1.7.10-1.9.8-GTNH.jar
+
+url = https://github.com/GTNewHorizons/bdlib/releases/download/1.9.8-GTNH/bdlib-1.7.10-1.9.8-GTNH.jar
+
+[BetterP2P]
+type = url
+
+destination = mods/betterp2p-1.0.19.jar
+
+url = https://github.com/GTNewHorizons/BetterP2P/releases/download/1.0.19/betterp2p-1.0.19.jar
+
+[Binnie]
+type = url
+
+destination = mods/binnie-mods-1.7.10-2.0.48.jar
+
+url = https://github.com/GTNewHorizons/Binnie/releases/download/2.0.48/binnie-mods-1.7.10-2.0.48.jar
+
+[Blood Arsenal]
+type = url
+
+destination = mods/BloodArsenal-1.7.10-1.2.9.jar
+
+url = https://github.com/GTNewHorizons/BloodArsenal/releases/download/1.2.9/BloodArsenal-1.7.10-1.2.9.jar
+
+[Blood Magic]
+type = url
+
+destination = mods/BloodMagic-1.3.25.jar
+
+url = https://github.com/GTNewHorizons/BloodMagic/releases/download/1.3.25/BloodMagic-1.3.25.jar
+
+[Botania]
+type = url
+
+destination = mods/Botania-1.9.15-GTNH.jar
+
+url = https://github.com/GTNewHorizons/Botania/releases/download/1.9.15-GTNH/Botania-1.9.15-GTNH.jar
+
+[BugTorch]
+type = url
+
+destination = mods/bugtorch-1.2.3.jar
+
+url = https://github.com/jss2a98aj/BugTorch/releases/download/1.2.3/bugtorch-1.2.3.jar
+
+[Chisel]
+type = url
+
+destination = mods/chisel-2.10.17-GTNH.jar
+
+url = https://github.com/GTNewHorizons/Chisel/releases/download/2.10.17-GTNH/chisel-2.10.17-GTNH.jar
+
+[Craft Tweaker]
+type = url
+
+destination = mods/CraftTweaker-3.2.11.jar
+
+url = https://github.com/GTNewHorizons/CraftTweaker/releases/download/3.2.11/CraftTweaker-3.2.11.jar
+
+[Custom Main Menu]
+type = url
+
+destination = mods/custommainmenu-1.7.10-1.9.4.jar
+
+url = https://github.com/GTNewHorizons/Custom-Main-Menu/releases/download/1.9.4/custommainmenu-1.7.10-1.9.4.jar
+
+[Forestry]
+type = url
+
+destination = mods/Forestry-4.5.8.jar
+
+url = https://github.com/GTNewHorizons/ForestryMC/releases/download/4.5.8/Forestry-4.5.8.jar
+
+[FTBLib]
+type = url
+
+destination = mods/FTBLib-1.0.19-GTNH.jar
+
+url = https://github.com/GTNewHorizons/FTB-Library/releases/download/1.0.19-GTNH/FTBLib-1.0.19-GTNH.jar
+
+[FTBUtils]
+type = url
+
+destination = mods/FTBUtilities-1.0.19-GTNH.jar
+
+url = https://github.com/GTNewHorizons/FTB-Utilities/releases/download/1.0.19-GTNH/FTBUtilities-1.0.19-GTNH.jar
+
+[Gendustry]
+type = url
+
+destination = mods/gendustry-1.7.10-1.6.5.5-GTNH.jar
+
+url = https://github.com/GTNewHorizons/gendustry/releases/download/1.6.5.5-GTNH/gendustry-1.7.10-1.6.5.5-GTNH.jar
+
+[GTNHLib]
+type = url
+
+destination = mods/gtnhlib-0.0.12.jar
+
+url = https://github.com/GTNewHorizons/GTNHLib/releases/download/0.0.12/gtnhlib-0.0.12.jar
+
+[Healer]
+type = url
+
+destination = mods/Healer-1.2.1.jar
+
+url = https://github.com/Glease/Healer/releases/download/1.2.1/Healer-1.2.1.jar
+
+[HodgePodge]
+type = url
+
+destination = mods/hodgepodge-2.0.36.jar
+
+url = https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.0.36/hodgepodge-2.0.36.jar
+
+[Iguana Tweaks]
+type = url
+
+destination = mods/IguanaTweaksTConstruct-2.2.7.jar
+
+url = https://github.com/GTNewHorizons/IguanaTweaksTConstruct/releases/download/2.2.7/IguanaTweaksTConstruct-2.2.7.jar
+
+[Inventory Tweaks]
+type = url
+
+destination = mods/inventorytweaks-1.5.16.jar
+
+url = https://github.com/GTNewHorizons/inventory-tweaks/releases/download/1.5.16/inventorytweaks-1.5.16.jar
+
+[LazyDFU Agent] # I am sorry from where I am getting it, but main publisher deleted the mod and only way to get is from my archives.
+type = url
+
+destination = mods/lazydfu-1.0.0.jar
+
+url = https://dl.dropboxusercontent.com/s/9f3bxhihpwnof2b/lazydfu-agent-1.0.0.jar?dl=0
+
+[magicbees]
+type = url
+
+destination = mods/magicbees-1.7.10-2.5.16-GTNH.jar
+
+url = https://github.com/GTNewHorizons/MagicBees/releases/download/2.5.16-GTNH/magicbees-1.7.10-2.5.16-GTNH.jar
+
+[ModTweaker]
+type = url
+
+destination = mods/ModTweaker2-0.9.10.jar
+
+url = https://github.com/GTNewHorizons/ModTweaker/releases/download/0.9.10/ModTweaker2-0.9.10.jar
+
+[MouseTweaks]
+type = url
+
+destination = mods/MouseTweaks-2.4.8-GTNH.jar
+
+url = https://github.com/GTNewHorizons/MouseTweaks/releases/download/2.4.8-GTNH/MouseTweaks-2.4.8-GTNH.jar
+
+[NEIAddons]
+type = url
+
+destination = mods/NEIAddons-1.7.10-1.12.22.jar
+
+url = https://github.com/GTNewHorizons/neiaddons/releases/download/1.12.22/NEIAddons-1.7.10-1.12.22.jar
+
+[NEI Integration]
+type = url
+
+destination = mods/NEIIntegration-1.7.10-1.2.3.jar
+
+url = https://github.com/GTNewHorizons/NEI-Integration/releases/download/1.2.3/NEIIntegration-1.7.10-1.2.3.jar
+
+[Neodymium]
+type = url
+
+destination = mods/neodymium-1.7.10-0.1.6.jar
+
+url = https://github.com/makamys/Neodymium/releases/download/0.1.6/neodymium-1.7.10-0.1.6.jar
+
+[NetherPortalFix]
+type = url
+
+destination = mods/netherportalfix-1.7.10-1.1.2.jar
+
+url = https://github.com/GTNewHorizons/NetherPortalFix/releases/download/1.1.2/netherportalfix-1.7.10-1.1.2.jar
+
+[NettyPatcher]
+type = url
+
+destination = mods/NettyPatcher-0.2.jar
+
+url = https://github.com/draknyte1/Netty-Patcher/releases/download/Release_1/NettyPatcher-0.2.jar
+
+[Not Enough Energistics]
+type = url
+
+destination = mods/NotEnoughEnergistics-1.3.30.jar
+
+url = https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.3.30/NotEnoughEnergistics-1.3.30.jar
+
+[NOVA] # Looks like our version got removed, had to add from our source
+type = url
+
+destination = mods/NOVA-2016-07-21-universal.jar
+
+url = https://dl.dropboxusercontent.com/s/ujclz8p29f3u9k9/NOVA-2016-07-21-universal.jar?dl=0
+
+[Open Blocks]
+type = url
+
+destination = mods/OpenBlocks-1.7.10-1.6.9-GTNH.jar
+
+url = https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.6.9-GTNH/OpenBlocks-1.7.10-1.6.9-GTNH.jar
+
+[RandomThings]
+type = url
+
+destination = mods/RandomThings-1.7.10-2.4.3.jar
+
+url = https://github.com/GTNewHorizons/Random-Things/releases/download/2.4.3/RandomThings-1.7.10-2.4.3.jar
+
+[Storage Drawers]
+type = url
+
+destination = mods/StorageDrawers-1.7.10-1.11.19-GTNH.jar
+
+url = https://github.com/GTNewHorizons/StorageDrawers/releases/download/1.11.19-GTNH/StorageDrawers-1.7.10-1.11.19-GTNH.jar
+
+[StorageDrawersBoP]
+type = url
+
+destination = mods/StorageDrawersBop-1.7.10-1.11.17-GTNH.jar
+
+url = https://github.com/GTNewHorizons/StorageDrawers-BiomesOPlenty/releases/download/1.11.17-GTNH/StorageDrawersBop-1.7.10-1.11.17-GTNH.jar
+
+[StorageDrawersForestry]
+type = url
+
+destination = mods/StorageDrawersForestry-1.7.10-1.11.17-GTNH.jar
+
+url = https://github.com/GTNewHorizons/StorageDrawers-Forestry/releases/download/1.11.17-GTNH/StorageDrawersForestry-1.7.10-1.11.17-GTNH.jar
+
+[StorageDrawersMisc]
+type = url
+
+destination = mods/StorageDrawersMisc-1.7.10-1.11.18-GTNH.jar
+
+url = https://github.com/GTNewHorizons/StorageDrawers-Misc/releases/download/1.11.18-GTNH/StorageDrawersMisc-1.7.10-1.11.18-GTNH.jar
+
+[TaintedMagic]
+type = url
+
+destination = mods/Tainted-Magic-7.6.2-GTNH.jar
+
+url = https://github.com/GTNewHorizons/Tainted-Magic/releases/download/7.6.2-GTNH/Tainted-Magic-7.6.2-GTNH.jar
+
+[Thaumcraft NEI Additions]
+type = url
+
+destination = mods/tcneiadditions-1.1.1.10.jar
+
+url = https://github.com/GTNewHorizons/TCNEIAdditions/releases/download/1.1.1.10/tcneiadditions-1.1.1.10.jar
+
+[Tinkers Construct]
+type = url
+
+destination = mods/TConstruct-1.9.23-GTNH.jar
+
+url = https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.9.23-GTNH/TConstruct-1.9.23-GTNH.jar
+
+[ThaumicEnergistics]
+type=url
+
+destination = mods/thaumicenergistics-1.7.10-1.3.28-GTNH.jar
+
+url = https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.3.28-GTNH/thaumicenergistics-1.7.10-1.3.28-GTNH.jar
+
+[ThaumicTinkerer]
+type=url
+
+destination = mods/ThaumicTinkerer-2.6.12.jar
+
+url = https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.6.12/ThaumicTinkerer-2.6.12.jar
+
+[Waila]
+type=url
+
+destination = mods/Waila-1.5.23.jar
+
+url = https://github.com/GTNewHorizons/waila/releases/download/1.5.23/Waila-1.5.23.jar
+
+[WailaHarvestability]
+type=url
+
+destination = mods/WailaHarvestability-1.7.10-1.1.10-GTNH.jar
+
+url = https://github.com/GTNewHorizons/WailaHarvestability/releases/download/1.1.10-GTNH/WailaHarvestability-1.7.10-1.1.10-GTNH.jar
+
+[WAILAPlugins]
+type=url
+
+destination = mods/WAILAPlugins-1.7.10-0.2.5.jar
+
+url = https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.2.5/WAILAPlugins-1.7.10-0.2.5.jar
+
+[Wawla]
+type=url
+
+destination = mods/Wawla-1.7.10-1.1.13-GTNH.jar
+
+url = https://github.com/GTNewHorizons/WAWLA/releases/download/1.1.3-GTNH/Wawla-1.7.10-1.1.3-GTNH.jar
+
+[WirelessCraftingTerminal]
+type=url
+
+destination = mods/WirelessCraftingTerminal-1.8.9.3.jar
+
+url = https://github.com/GTNewHorizons/WirelessCraftingTerminal/releases/download/1.8.9.3/WirelessCraftingTerminal-1.8.9.3.jar
+
+[WitcheryExtras]
+type=url
+
+destination = mods/WitcheryExtras-1.1.14.jar
+
+url = https://github.com/GTNewHorizons/WitcheryExtras/releases/download/1.1.14/WitcheryExtras-1.1.14.jar
+
+
+
+
+# Modrinth
+
+[Baubles]
+type = modrinth
+
+destination = mods/Baubles-1.7.10-2.0.7.jar
+
+versionId = qph9YMZZ
+
+sourceFileName = Baubles-1.7.10-2.0.7.jar
+
+[CodeChickenCore]
+type = modrinth
+
+destination = mods/CodeChickenCore-1.1.11.jar
+
+versionId = uK1V66Fl
+
+sourceFileName = CodeChickenCore-1.1.11.jar
+
+[CodeChickenLib]
+type = modrinth
+
+destination = mods/CCodeChickenLib-1.1.8.jar
+
+versionId = 7rlH2gFw
+
+sourceFileName = CodeChickenLib-1.1.8.jar
+
+[Immersive Cavegen]
+type = modrinth
+
+destination = mods/immersivecavegen-1.2g-hotfix4.jar
+
+versionId = 1PmM7Waa
+
+sourceFileName = immersivecavegen-1.2g-hotfix4.jar
+
+[TabFaces]
+type = modrinth
+
+destination = mods/tabfaces-0.0.17-mc1.7.10.jar
+
+versionId = jLeKskrJ
+
+sourceFileName = tabfaces-0.0.17-mc1.7.10.jar
+
+[TileEntityResetFix]
+type = modrinth
+
+destination = mods/TileEntityResetFix-1.0.1-noreq.jar
+
+versionId = uxSWLWki
+
+sourceFileName = TileEntityResetFix-1.0.1-noreq.jar
+
+
+# Curseforge
+
+
+
+[Locale Fixer]
+type = curseforge
+
+destination = mods/00_mc-locale-fix-coremod-old-1.0.jar
+
+projectId = 250059
+
+fileId = 2325634
+
+sourceFileName = 00_mc-locale-fix-coremod-old-1.0.jar
+
+[Actually Additions]
+type = curseforge
+
+destination = mods/ActuallyAdditions-1.7.10-r21.jar
+
+projectId = 228404
+
+fileId = 2274681
+
+sourceFileName = ActuallyAdditions-1.7.10-r21.jar
+
+[AI Improvements]
+type = curseforge
+
+destination = mods/AIImprovements-1.7.10-0.0.1b8.jar
+
+projectId = 233019
+
+fileId = 2524666
+
+sourceFileName = AIImprovements-1.7.10-0.0.1b8.jar
+
+[Already Decorating Fix]
+type = curseforge
+
+destination = mods/alreadydecoratingfix-1.0a.jar
+
+projectId = 533258
+
+fileId = 3479308
+
+sourceFileName = alreadydecoratingfix-1.0a.jar
+
+[AOBD]
+type = curseforge
+
+destination = mods/AOBD-2.9.2.jar
+
+projectId = 221863
+
+fileId = 2305237
+
+sourceFileName = AOBD-2.9.2.jar
+
+[AppleCore]
+type = curseforge
+
+destination = mods/AppleCore-mc1.7.10-3.1.1.jar
+
+projectId = 224472
+
+fileId = 2530879
+
+sourceFileName = AppleCore-mc1.7.10-3.1.1.jar 
+
+[Baublestuff]
+type = curseforge
+
+destination = mods/baublesstuff-2.1.2.jar
+
+projectId = 236988
+
+fileId = 2298162
+
+sourceFileName = baublesstuff-2.1.2.jar
+
+[BeeBetterAtBees]
+type = curseforge
+
+destination = mods/BeeBetterAtBees-0.3.jar
+
+projectId = 244516
+
+fileId = 2297397
+
+sourceFileName = BeeBetterAtBees-0.3.jar
+
+[BetterFarmland]
+type = curseforge
+
+destination = mods/[1.7.10]+BetterFarmland+v0.0.3.1-BETA.jar
+
+projectId = 296238
+
+fileId = 2610088
+
+sourceFileName = [1.7.10]+BetterFarmland+v0.0.3.1-BETA.jar
+
+[BiblioCraft]
+type = curseforge
+
+destination = mods/BiblioCraft[v1.11.7][MC1.7.10].jar
+
+projectId = 228027
+
+fileId = 2423369
+
+sourceFileName = BiblioCraft[v1.11.7][MC1.7.10].jar
+
+[BiblioWoods BoP]
+type = curseforge
+
+destination = mods/BiblioWoods[BiomesOPlenty][v1.9].jar
+
+projectId = 228362
+
+fileId = 2229577
+
+sourceFileName = BiblioWoods[BiomesOPlenty][v1.9].jar
+
+[BiblioWoods Forestry]
+type = curseforge
+
+destination = mods/BiblioWoods[Forestry][v1.7].jar
+
+projectId = 228363
+
+fileId = 2229574
+
+sourceFileName = BiblioWoods[Forestry][v1.7].jar
+
+[BiblioWoods Natura]
+type = curseforge
+
+destination = mods/BiblioWoods[Natura][v1.5].jar
+
+projectId = 228364
+
+fileId = 2229581
+
+sourceFileName = BiblioWoods[Natura][v1.5].jar
+
+[Biggerpackets]
+type = curseforge
+
+destination = mods/biggerpacketsplz-upto1.7.10-1.2.jar
+
+projectId = 309110
+
+fileId = 2655844
+
+sourceFileName = biggerpacketsplz-upto1.7.10-1.2.jar
+
+[Big Reactors]
+type = curseforge
+
+destination = mods/BigReactors-0.4.3A.jar
+
+projectId = 241994
+
+fileId = 2282591
+
+sourceFileName = BigReactors-0.4.3A.jar
+
+[BiomesOPlenty]
+type = curseforge
+
+destination = mods/BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar
+
+projectId = 220318
+
+fileId = 2499612
+
+sourceFileName = BiomesOPlenty-1.7.10-2.1.0.2308-universal.jar
+
+[Botania Visualizer]
+type = curseforge
+
+destination = mods/BotaniaVisualizer-1.7.2-1.0a.jar
+
+projectId = 260616
+
+fileId = 2381644
+
+sourceFileName = BotaniaVisualizer-1.7.2-1.0a.jar
+
+[Botanic Energestics]
+type = curseforge
+
+destination = mods/BotanicEnergistics-0.2.7.jar
+
+projectId = 238727
+
+fileId = 2420937
+
+sourceFileName = BotanicEnergistics-0.2.7.jar
+
+[Campfire backport]
+type = curseforge
+
+destination = mods/campfirebackport-1.7.10-1.10.jar
+
+projectId = 387444
+
+fileId = 3947430
+
+sourceFileName = campfirebackport-1.7.10-1.10.jar
+
+[Careful Cast Corrector]
+type = curseforge
+
+destination = mods/Careful+Cast+Corrector-2.0.jar
+
+projectId = 324714
+
+fileId = 3310159
+
+sourceFileName = Careful+Cast+Corrector-2.0.jar
+
+[Carpenter Blocks]
+type = curseforge
+
+destination = mods/Carpenter's+Blocks+v3.3.8.2+-+MC+1.7.10.jar
+
+projectId = 228932
+
+fileId = 2719376
+
+sourceFileName = Carpenter's+Blocks+v3.3.8.2+-+MC+1.7.10.jar
+
+[COFH Core]
+type = curseforge
+
+destination = mods/CoFHCore-[1.7.10]3.1.4-329.jar
+
+projectId = 69162
+
+fileId = 2388750
+
+sourceFileName = CoFHCore-[1.7.10]3.1.4-329.jar
+
+[COFH Lib]
+type = curseforge
+
+destination = mods/CoFHLib-[1.7.10]1.2.1-185.jar
+
+projectId = 220333
+
+fileId = 2388747
+
+sourceFileName = CoFHLib-[1.7.10]1.2.1-185.jar
+
+[Controlling]
+type = curseforge
+
+destination = mods/Controlling-1.7.10-1.0.0.4.jar
+
+projectId = 250398
+
+fileId = 4173844
+
+sourceFileName = Controlling-1.7.10-1.0.0.4.jar
+
+[Cosmetic Armor Reworked]
+type = curseforge
+
+destination = mods/CosmeticArmorReworked-1.7.10-v7.jar
+
+projectId = 237307
+
+fileId = 3763564
+
+sourceFileName = CosmeticArmorReworked-1.7.10-v7.jar
+
+[Crafting Tweaks]
+type = curseforge
+
+destination = mods/craftingtweaks-mc1.7.10-1.0.88.jar
+
+projectId = 233071
+
+fileId = 2457094
+
+sourceFileName = craftingtweaks-mc1.7.10-1.0.88.jar
+
+[Dense Ores]
+type = curseforge
+
+destination = mods/denseores-1.6.2.jar
+
+projectId = 224942
+
+fileId = 2234692
+
+sourceFileName = denseores-1.6.2.jar
+
+[DMod]
+type = curseforge
+
+destination = mods/DMod-1.7.10-1.0.3.4+nomixin.jar
+
+projectId = 513764
+
+fileId = 4262700
+
+sourceFileName = DMod-1.7.10-1.0.3.4+nomixin.jar
+
+[EnderCore]
+type = curseforge
+
+destination = mods/EnderCore-1.7.10-0.2.0.39_beta.jar
+
+projectId = 231868
+
+fileId = 2331048
+
+sourceFileName = EnderCore-1.7.10-0.2.0.39_beta.jar
+
+[EnderCrop]
+type = curseforge
+
+destination = mods/endercrop-1.7.10-1.2.jar
+
+projectId = 242269
+
+fileId = 2293024
+
+sourceFileName = endercrop-1.7.10-1.2.jar
+
+[EnderIO]
+type = curseforge
+
+destination = mods/EnderIO-1.7.10-2.3.0.429_beta.jar
+
+projectId = 64578
+
+fileId = 2322348
+
+sourceFileName = EnderIO-1.7.10-2.3.0.429_beta.jar
+
+[EnderIO Addons]
+type = curseforge
+
+destination = mods/EnderIOAddons-1.7.10-2.3.0.427_beta-0.10.13.56_beta.jar
+
+projectId = 236203
+
+fileId = 2408180
+
+sourceFileName = EnderIOAddons-1.7.10-2.3.0.427_beta-0.10.13.56_beta.jar
+
+[EnderStorage]
+type = curseforge
+
+destination = mods/EnderStorage-1.7.10-1.4.7.37-universal.jar
+
+projectId = 229306
+
+fileId = 2262092
+
+sourceFileName = EnderStorage-1.7.10-1.4.7.37-universal.jar
+
+[EnderUtitilies]
+type = curseforge
+
+destination = mods/enderutilities-1.7.10-0.5.3.jar
+
+projectId = 224320
+
+fileId = 2297555
+
+sourceFileName = enderutilities-1.7.10-0.5.3.jar
+
+[Et Futurum]
+type = curseforge
+
+destination = mods/Et_Futurum_Requiem-2.4.3+nomixin.jar
+
+projectId = 441392
+
+fileId = 4390748
+
+sourceFileName = Et_Futurum_Requiem-2.4.3+nomixin.jar
+
+[ExtraTiC]
+type = curseforge
+
+destination = mods/ExtraTiC-1.7.10-1.4.6.jar
+
+projectId = 72728
+
+fileId = 2299292
+
+sourceFileName = ExtraTiC-1.7.10-1.4.6.jar
+
+[extrautilities]
+type = curseforge
+
+destination = mods/extrautilities-1.2.12.jar
+
+projectId = 225561
+
+fileId = 2264383
+
+sourceFileName = extrautilities-1.2.12.jar
+
+[Flying Cullers] # Client side
+type = curseforge
+
+destination = mods/FlyingCullers-1.7.10-1.3.jar
+
+projectId = 433524
+
+fileId = 3364996
+
+sourceFileName = FlyingCullers-1.7.10-1.3.jar
+
+[FoamFix]
+type = curseforge
+
+destination = mods/FoamFix-1.7.10-universal-1.0.2.jar
+
+projectId = 278494
+
+fileId = 4054718
+
+sourceFileName = FoamFix-1.7.10-universal-1.0.2.jar
+
+[FMP]
+type = curseforge
+
+destination = mods/fmpintegration-1.2.2-1.7.10.jar
+
+projectId = 220567
+
+fileId = 2208801
+
+sourceFileName = fmpintegration-1.2.2-1.7.10.jar
+
+
+[FossilsArcheology]
+type = curseforge
+
+destination = mods/fossilsarcheology-7.3.2.jar
+
+projectId = 223908
+
+fileId = 2321502
+
+sourceFileName = fossilsarcheology-7.3.2.jar
+
+[FoxLib]
+type = curseforge
+
+destination = mods/FoxLib-1.7.10-0.7.0.jar
+
+projectId = 223291
+
+fileId = 2227736
+
+sourceFileName = FoxLib-1.7.10-0.7.0.jar
+
+[Generators]
+type = curseforge
+
+destination = mods/generators-0.9.20.123-mc1.7.10.jar
+
+projectId = 223622
+
+fileId = 2298965
+
+sourceFileName = generators-0.9.20.123-mc1.7.10.jar
+
+[GraveStone]
+type = curseforge
+
+destination = mods/GraveStone+Mod+0.7.10.3.jar
+
+projectId = 238551
+
+fileId = 2374232
+
+sourceFileName = GraveStone+Mod+0.7.10.3.jar
+
+[GrowthCraft]
+type = curseforge
+
+destination = mods/growthcraft-1.7.10-2.7.2-complete.jar
+
+projectId = 235092
+
+fileId = 2364991
+
+sourceFileName = growthcraft-1.7.10-2.7.2-complete.jar
+
+[GuideAPI]
+type = curseforge
+
+destination = mods/Guide-API-1.7.10-1.0.1-29.jar
+
+projectId = 228832
+
+fileId = 2287184
+
+sourceFileName = Guide-API-1.7.10-1.0.1-29.jar
+
+[IC2 Wrench]
+type = curseforge
+
+destination = mods/IC2+Wrench+Plugin+Version+1.0.3.jar
+
+projectId = 237224
+
+fileId = 2292162
+
+sourceFileName = IC2+Wrench+Plugin+Version+1.0.3.jar
+
+[IndustrialCraft2]
+type = curseforge
+
+destination = mods/industrialcraft-2-2.2.827-experimental.jar
+
+projectId = 242638
+
+fileId = 2353971
+
+sourceFileName = industrialcraft-2-2.2.827-experimental.jar
+
+[InfiniTiC]
+type = curseforge
+
+destination = mods/Infini-TiC-1.7.10-0.1.5.DEV.324b697.jar
+
+projectId = 247823
+
+fileId = 2475011
+
+sourceFileName = Infini-TiC-1.7.10-0.1.5.DEV.324b697.jar
+
+[IronChests]
+type = curseforge
+
+destination = mods/ironchest-1.7.10-6.0.62.742-universal.jar
+
+projectId = 228756
+
+fileId = 2230908
+
+sourceFileName = ironchest-1.7.10-6.0.62.742-universal.jar
+
+[ItLt]
+type = curseforge
+
+destination = mods/itlt-1.7.x-1.0.3.jar
+
+projectId = 232791
+
+fileId = 3335234
+
+sourceFileName = itlt-1.7.x-1.0.3.jar
+
+[IvToolkit]
+type = curseforge
+
+destination = mods/IvToolkit-1.2.1.jar
+
+projectId = 224535
+
+fileId = 2294442
+
+sourceFileName = IvToolkit-1.2.1.jar
+
+[Llibrary]
+type = curseforge
+
+destination = mods/llibrary-1.5.1-1.7.10.jar
+
+projectId = 243298
+
+fileId = 2319767
+
+sourceFileName = llibrary-1.5.1-1.7.10.jar
+
+[LootPP]
+type = curseforge
+
+destination = mods/Loot++-0.24_for_1.7.jar
+
+projectId = 225880
+
+fileId = 2311063
+
+sourceFileName = Loot++-0.24_for_1.7.jar
+
+[Lootbags]
+type = curseforge
+
+destination = mods/LootBags-1.7.10-2.0.17.jar
+
+projectId = 225946
+
+fileId = 2356424
+
+sourceFileName = LootBags-1.7.10-2.0.17.jar
+
+[Mantle]
+type = curseforge
+
+destination = mods/Mantle-1.7.10-0.3.2b.jar
+
+projectId = 74924
+
+fileId = 2264244
+
+sourceFileName = Mantle-1.7.10-0.3.2b.jar
+
+[mcjtylib]
+type = curseforge
+
+destination = mods/mcjtylib-1.8.1.jar
+
+projectId = 233105
+
+fileId = 2272449
+
+sourceFileName = mcjtylib-1.8.1.jar
+
+[Mekanism Core]
+type = curseforge
+
+destination = mods/Mekanism-Community-Edition-1.7.10-9.10.26-Core.jar
+
+projectId = 399904
+
+fileId = 4404875
+
+sourceFileName = Mekanism-Community-Edition-1.7.10-9.10.26-Core.jar
+
+[Mekanism Generators]
+type = curseforge
+
+destination = mods/Mekanism-Community-Edition-1.12.2-9.12.4-Generators.jar
+
+projectId = 813408
+
+fileId = 4404893
+
+sourceFileName = Mekanism-Community-Edition-1.12.2-9.12.4-Generators.jar
+
+[Mekanism Tools]
+type = curseforge
+
+destination = mods/Mekanism-Community-Edition-1.12.2-9.12.4-Tools.jar
+
+projectId = 813407
+
+fileId = 4404894
+
+sourceFileName = Mekanism-Community-Edition-1.12.2-9.12.4-Tools.jar
+
+[Metallurgy]
+type = curseforge
+
+destination = mods/Metallurgy-1.7.10-4.0.9.148.jar
+
+projectId = 59641
+
+fileId = 2322815
+
+sourceFileName = Metallurgy-1.7.10-4.0.9.148.jar
+
+[Metallurgy Chisel]
+type = curseforge
+
+destination = mods/MetallurgyChisel-1.7.10-1.0.0.11.jar
+
+projectId = 236311
+
+fileId = 2258989
+
+sourceFileName = MetallurgyChisel-1.7.10-1.0.0.11.jar
+
+[Metallurgy Core]
+type = curseforge
+
+destination = mods/MetallurgyCore-1.7.10-4.0.4.18.jar
+
+projectId = 78640
+
+fileId = 2322813
+
+sourceFileName = MetallurgyCore-1.7.10-4.0.4.18.jar
+
+[MF Reloaded LOL]
+type = curseforge
+
+destination = mods/MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar
+
+projectId = 66672
+
+fileId = 2366149
+
+sourceFileName = MineFactoryReloaded-[1.7.10]2.8.2B1-201.jar
+
+[Modern Key Binding]
+type = curseforge
+
+destination = mods/ModernKeyBinding-Forge-1.7.10-2.1.0-mixinless.jar
+
+projectId = 686846
+
+fileId = 4034362
+
+sourceFileName = ModernKeyBinding-Forge-1.7.10-2.1.0-mixinless.jar
+
+[Splash Screen]
+type = curseforge
+
+projectId  = 629058
+
+destination = mods/modernsplash-1.7.10-1.2.1-d88da6a.dirty.jar
+
+fileId = 4347198
+
+sourceFileName = modernsplash-1.7.10-1.2.1-d88da6a.dirty.jar
+
+[More Chisels]
+type = curseforge
+
+destination = mods/MoreChisels-1.7.10-1.0-28.jar
+
+projectId = 227904
+
+fileId = 2263981
+
+sourceFileName = MoreChisels-1.7.10-1.0-28.jar
+
+[Mo Villages]
+type = curseforge
+
+destination = mods/[1.7.10]MoVillages-1.4.2.jar
+
+projectId = 243205
+
+fileId = 2309559
+
+sourceFileName = [1.7.10]MoVillages-1.4.2.jar
+
+[Mowzies Mobs]
+type = curseforge
+
+destination = mods/MowziesMobs-1.2.99.jar
+
+projectId = 250498
+
+fileId = 2327392
+
+sourceFileName = MowziesMobs-1.2.99.jar
+
+[MrCrayfishFurnitureMod]
+type = curseforge
+
+destination = mods/MrCrayfishFurnitureModv3.4.7(1.7.10).jar
+
+projectId = 55438
+
+fileId = 2221679
+
+sourceFileName = MrCrayfishFurnitureModv3.4.7(1.7.10).jar
+
+[Netherlicious]
+type = curseforge
+
+destination = mods/netherlicious-3.2.8.jar
+
+projectId = 385860
+
+fileId = 4363437
+
+sourceFileName = netherlicious-3.2.8.jar
+
+[NotEnoughItems]
+type = curseforge
+
+destination = mods/NotEnoughItems-2.3.32-GTNH.jar
+
+projectId = 358228
+
+fileId = 4397161
+
+sourceFileName = NotEnoughItems-2.3.32-GTNH.jar
+
+[NotEnoughResources]
+type = curseforge
+
+destination = mods/NotEnoughResources-1.7.10-0.1.0-128.jar
+
+projectId = 225815
+
+fileId = 2323485
+
+sourceFileName = NotEnoughResources-1.7.10-0.1.0-128.jar
+
+[OpenModsLib]
+type = curseforge
+
+destination = mods/OpenModsLib-1.7.10-0.10.1.jar
+
+projectId = 228815
+
+fileId = 2765573
+
+sourceFileName = OpenModsLib-1.7.10-0.10.1.jar
+
+[OreDickInit]
+type = curseforge
+
+destination = mods/OreDictInit-1.7.10-1.0.5.jar
+
+projectId = 253574 
+
+fileId = 2350234
+
+sourceFileName = OreDictInit-1.7.10-1.0.5.jar
+
+[Pams HarvestCraft]
+type = curseforge
+
+destination = mods/Pam's HarvestCraft 1.7.10Lb.jar
+
+projectId = 221857
+
+fileId = 2270206
+
+sourceFileName = Pam's HarvestCraft 1.7.10Lb.jar
+
+[Plonk]
+type = curseforge
+
+destination = mods/plonk-1.7.10-0.0.8.jar
+
+projectId = 345779
+
+fileId = 3299027
+
+sourceFileName = plonk-1.7.10-0.0.8.jar
+
+[Railcraft]
+type = curseforge
+
+destination = mods/Railcraft_1.7.10-9.12.2.0.jar
+
+projectId = 51195
+
+fileId = 2299713
+
+sourceFileName = Railcraft_1.7.10-9.12.2.0.jar
+
+[Reauth]
+type = curseforge
+
+destination = mods/ReAuth-1.7.10-Forge-4.0.7.jar
+
+projectId = 237701
+
+fileId = 4407995
+
+sourceFileName = ReAuth-1.7.10-Forge-4.0.7.jar
+
+[RebornCore]
+type = curseforge
+
+destination = mods/RebornCore-1.1.0.15-universal.jar
+
+projectId = 237903
+
+fileId = 2268429
+
+sourceFileName = RebornCore-1.1.0.15-universal.jar
+
+[RecurrentComplex] # Patched one
+type = curseforge
+
+destination = mods/RecurrentComplex-0.9.7.1.2.jar
+
+projectId = 602400
+
+fileId = 3724793
+
+sourceFileName = RecurrentComplex-0.9.7.1.2.jar
+
+[RedstoneArsenal]
+type = curseforge
+
+destination = mods/RedstoneArsenal-[1.7.10]1.1.2-92.jar
+
+projectId = 70631
+
+fileId = 2277490
+
+sourceFileName = RedstoneArsenal-[1.7.10]1.1.2-92.jar
+
+[ResourceLoader]
+type = curseforge
+
+destination = mods/ResourceLoader-MC1.7.10-1.3.jar
+
+projectId = 226447
+
+fileId = 2292845
+
+sourceFileName = ResourceLoader-MC1.7.10-1.3.jar
+
+[rfTools]
+type = curseforge
+
+destination = mods/rftools-4.23.jar
+
+projectId = 224641 
+
+fileId = 2287287
+
+sourceFileName = rftools-4.23.jar
+
+[ServerTabInfo]
+type = curseforge
+
+destination = mods/ServerTabInfo-1.7.10-Final-b3.jar
+
+projectId = 291788
+
+fileId = 2863026
+
+sourceFileName = ServerTabInfo-1.7.10-Final-b3.jar
+
+[SmoothFont]
+type = curseforge
+
+destination = mods/SmoothFont-1.7.10-1.15.3.jar
+
+projectId = 285742
+
+fileId = 2614474
+
+sourceFileName = SmoothFont-1.7.10-1.15.3.jar
+
+[TabulaRasa]
+type = curseforge
+
+destination = mods/TabulaRasa-[1.7.10]1.0.1-3.jar
+
+projectId = 223682
+
+fileId = 2213557
+
+sourceFileName = TabulaRasa-[1.7.10]1.0.1-3.jar
+
+[Tails OwO]
+type = curseforge
+
+destination = mods/Tails-1.7.10-1.4.1a.jar
+
+projectId = 223584
+
+fileId = 2254706
+
+sourceFileName = Tails-1.7.10-1.4.1a.jar
+
+[Thaumcraft Inventory Scan]
+type = curseforge
+
+destination = mods/tcinventoryscan-mc1.7.10-1.0.11.jar
+
+projectId = 238003
+
+fileId = 2286894
+
+sourceFileName = tcinventoryscan-mc1.7.10-1.0.11.jar
+
+[Thaumcraft]
+type = curseforge
+
+destination = mods/Thaumcraft-1.7.10-4.2.3.5.jar
+
+projectId = 223628
+
+fileId = 2227552
+
+sourceFileName = Thaumcraft-1.7.10-4.2.3.5.jar
+
+[Thaumcraft4Tweaks]
+type = curseforge
+
+destination = mods/Thaumcraft4Tweaks-1.7.10-1.4.26.jar
+
+projectId = 431297
+
+fileId = 4205634
+
+sourceFileName = Thaumcraft4Tweaks-1.7.10-1.4.26.jar
+
+[ThaumcraftNEIplugin]
+type = curseforge
+
+destination = mods/thaumcraftneiplugin-1.7.10-1.7a.jar
+
+projectId = 225095
+
+fileId = 2241913
+
+sourceFileName = thaumcraftneiplugin-1.7.10-1.7a.jar
+
+[ThermalDynamics]
+type = curseforge
+
+destination = mods/ThermalDynamics-[1.7.10].jar
+
+projectId = 227443
+
+fileId = 2388756
+
+sourceFileName = ThermalDynamics-[1.7.10].jar
+
+[ThermalExpansion]
+type = curseforge
+
+destination = mods/ThermalExpansion-[1.7.10]4.1.5-248.jar
+
+projectId = 69163
+
+fileId = 2388758
+
+sourceFileName = ThermalExpansion-[1.7.10]4.1.5-248.jar
+
+[ThermalFoundation]
+type = curseforge
+
+destination = mods/ThermalFoundation-[1.7.10]1.2.6-118.jar
+
+projectId = 222880
+
+fileId = 2388752
+
+sourceFileName = ThermalFoundation-[1.7.10]1.2.6-118.jar
+
+[TiCTooltips]
+type = curseforge
+
+destination = mods/TiCTooltips-mc1.7.10-1.2.5.jar
+
+projectId = 76845
+
+fileId = 2246472
+
+sourceFileName = TiCTooltips-mc1.7.10-1.2.5.jar
+
+[UniDick]
+type = curseforge
+
+destination = mods/UniDict-1.7.10-2.9.2.jar
+
+projectId = 244258
+
+fileId = 2329986
+
+sourceFileName = UniDict-1.7.10-2.9.2.jar
+
+[Uniq]
+type = curseforge
+
+destination = mods/uniq-1.7.jar
+
+projectId = 261029
+
+fileId = 2938923
+
+sourceFileName = uniq-1.7.jar
+
+[VillagerMantleFix]
+type = curseforge
+
+destination = mods/villagemantlefix-1.7.10-2.jar
+
+projectId = 274065
+
+fileId = 2462721
+
+sourceFileName = villagemantlefix-1.7.10-2.jar
+
+[Waystones]
+type = curseforge
+
+destination = mods/Waystones-mc1.7.10-0.24.1.jar
+
+projectId = 245755
+
+fileId = 2559125
+
+sourceFileName = Waystones-mc1.7.10-0.24.1.jar
+
+[Witchery]
+type = curseforge
+
+destination = mods/witchery-1.7.10-0.24.1.jar
+
+projectId = 69673
+
+fileId = 2234410
+
+sourceFileName = witchery-1.7.10-0.24.1.jar
+
+[Xaero'sMinimap]
+type = curseforge
+
+destination = mods/Xaeros_Minimap_21.10.31_Forge_1.7.10.jar
+
+projectId = 263420
+
+fileId = 4338605
+
+sourceFileName = Xaeros_Minimap_21.10.31_Forge_1.7.10.jar
+
+[Xaero'sWorldmap]
+type = curseforge
+
+destination = mods/XaerosWorldMap_1.14.1.22_Forge_1.7.10.jar
+
+projectId = 317780
+
+fileId = 4127328
+
+sourceFileName = XaerosWorldMap_1.14.1.22_Forge_1.7.10.jar
+
+[BloodBaubles]
+type = curseforge
+
+destination = mods/ZDoctorBB-1.7.10-Server.jar
+
+projectId = 238129
+
+fileId = 2309393
+
+sourceFileName = ZDoctorBB-1.7.10-Server.jar
+
+
+
+# [name]
+# type = curseforge
+
+# destination = mods/
+
+# fileId = -
+
+# sourceFileName = -
+
+
+
+
+
+# Optionals
+
+[FastCraft]
+ type = curseforge
+
+ destination = mods/fastcraft-1.23.jar
+
+ projectId = 242677
+
+ fileId = 2292386
+
+ sourceFileName = fastcraft-1.23.jar
+
+ optional = true
+
+[Optifine]
+ type = url
+
+ destination = mods/Optifine.jar
+
+ url = https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_D6.jar
+
+ follows = Download
+
+ optional = true
+
+[Notfine]
+ type = url
+
+ destination = mods/notfine-alpha-19.jar
+
+ url = https://github.com/jss2a98aj/NotFine/releases/download/alpha-19/notfine-alpha-19.jar
+
+ optional = true

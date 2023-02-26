@@ -1,0 +1,7 @@
+{
+Metallurgy:[
+    {keep:[[],[0]]};
+    {hide:[[molten.bucket],[]]};
+	{hide:[[base.dust],[0,3],[*copper*]]};
+]
+}

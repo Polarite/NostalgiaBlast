@@ -1,0 +1,41 @@
+{
+	"name": "diamond",
+	"renderblock": "minecraft:diamond_block",
+	"renderblockMeta": 0,
+	"renderore": "minecraft:diamond",
+	"renderoreMeta": 0,
+	"whitelist": {
+		"oredict": ["gemdiamond"],
+		"ingots": ["ore:gemDiamond"],
+		"dusts": ["IC2:itemdust2:1"],
+		"blocks": [],
+		"ores": []
+	},
+	"blacklist": {
+		"oredict": ["adamantiodic_material"],
+		"ores": ["simpleores:adamantium_ore"]
+	},
+	"toolData": {
+		"ID": 150,
+		"harvestLevel": 5,
+		"durability": 1500,
+		"miningspeed": 10,
+		"attack": 8,
+		"handleModifier": 2.5,
+		"reinforced": 3,
+		"stonebound": 0.1,
+		"color": "#6efcf0",
+		"temperature": 900,
+		"drawspeed": 100,
+		"projectilespeed": 1.0,
+		"projectilemass": 2.0,
+		"projectilefragility": 0.9
+	},
+	"localizations": [{
+		"locale": "en_US",
+		"solid": "Crystalized Diamond",
+		"liquid": "Molten Crystalized Diamond",
+		"fluid": "Molten Crystalized Diamond",
+		"bucket": "Crystalized Diamond Bucket"
+	}]
+}

@@ -1,0 +1,6 @@
+{
+MagicBees:[
+    {keep:[[],[0]]};
+    {hide:[[capsule*],[1-100]]};
+]
+}

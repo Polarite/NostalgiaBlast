@@ -1,0 +1,41 @@
+{
+	"name": "certus",
+	"renderblock": "appliedenergistics2:tile.BlockQuartz",
+	"renderblockMeta": 0,
+	"renderore": "crystal:certusQuartz",
+	"renderoreMeta": 0,
+	"whitelist": {
+		"oredict": ["anyCertusCrystal"],
+		"ingots": ["crystal:certusQuartz","crystal:certusQuartz:1"],
+		"dusts": ["appliedenergistics2:item.ItemMultiMaterial"],
+		"blocks": ["appliedenergistics2:tile.BlockQuartz"],
+		"ores": ["appliedenergistics2:tile.OreQuartz"]
+	},
+	"blacklist": {
+		"oredict": ["adamantiodic_material"],
+		"ores": ["simpleores:adamantium_ore"]
+	},
+	"toolData": {
+		"ID": 151,
+		"harvestLevel": 2,
+		"durability": 50,
+		"miningspeed": 10,
+		"attack": 8,
+		"handleModifier": 2.5,
+		"reinforced": 0,
+		"stonebound": 0,
+		"color": "#D6e5fe",
+		"temperature": 500,
+		"drawspeed": 10,
+		"projectilespeed": 1.0,
+		"projectilemass": 2.0,
+		"projectilefragility": 0.9
+	},
+	"localizations": [{
+		"locale": "en_US",
+		"solid": "Certus Quartz",
+		"liquid": "Molten Certus Quartz",
+		"fluid": "Molten Certus Quartz",
+		"bucket": "Molten Certus Quartz Bucket"
+	}]
+}
