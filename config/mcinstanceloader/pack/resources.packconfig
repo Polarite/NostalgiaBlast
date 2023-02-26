@@ -498,6 +498,17 @@ fileId = 2305237
 
 sourceFileName = AOBD-2.9.2.jar
 
+[AOBDOC]
+type = curseforge
+
+destination = mods/AOBD-2.9.2.jar
+
+projectId = 252890
+
+fileId = 2359054
+
+sourceFileName = AOBD-2.9.2.jar
+
 [AppleCore]
 type = curseforge
 
@@ -1078,32 +1089,32 @@ destination = mods/Mekanism-Community-Edition-1.7.10-9.10.26-Core.jar
 
 projectId = 399904
 
-fileId = 4404875
+fileId = 4357766
 
 sourceFileName = Mekanism-Community-Edition-1.7.10-9.10.26-Core.jar
 
-[Mekanism Generators]
-type = curseforge
-
-destination = mods/Mekanism-Community-Edition-1.12.2-9.12.4-Generators.jar
-
-projectId = 813408
-
-fileId = 4404877
-
-sourceFileName = Mekanism-Community-Edition-1.12.2-9.12.4-Generators.jar
-
-[Mekanism Tools]
-type = curseforge
-
-destination = mods/Mekanism-Community-Edition-1.12.2-9.12.4-Tools.jar
-
-projectId = 813407
-
-fileId = 4404884
-
-sourceFileName = Mekanism-Community-Edition-1.12.2-9.12.4-Tools.jar
-
+# [Mekanism Generators]
+# type = curseforge
+# 
+# destination = mods/Mekanism-Community-Edition-1.12.2-9.12.4-Generators.jar
+# 
+# projectId = 813408
+# 
+# fileId = 4404877
+# 
+# sourceFileName = Mekanism-Community-Edition-1.12.2-9.12.4-Generators.jar
+# 
+# [Mekanism Tools]
+# type = curseforge
+# 
+# destination = mods/Mekanism-Community-Edition-1.12.2-9.12.4-Tools.jar
+# 
+# projectId = 813407
+# 
+# fileId = 4404884
+# 
+# sourceFileName = Mekanism-Community-Edition-1.12.2-9.12.4-Tools.jar
+# 
 [Metallurgy]
 type = curseforge
 
