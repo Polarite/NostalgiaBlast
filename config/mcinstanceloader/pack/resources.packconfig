@@ -120,6 +120,13 @@ destination = mods/custommainmenu-1.7.10-1.9.4.jar
 
 url = https://github.com/GTNewHorizons/Custom-Main-Menu/releases/download/1.9.4/custommainmenu-1.7.10-1.9.4.jar
 
+[EnderIO]
+type = url
+
+destination = mods/EnderIO-2.3.1.61-pre.jar
+
+url = https://github.com/GTNewHorizons/EnderIO/releases/download/2.3.1.61-pre/EnderIO-2.3.1.61-pre.jar
+
 [Forestry]
 type = url
 
@@ -777,17 +784,6 @@ fileId = 2293024
 
 sourceFileName = endercrop-1.7.10-1.2.jar
 
-[EnderIO]
-type = curseforge
-
-destination = mods/EnderIO-1.7.10-2.3.0.429_beta.jar
-
-projectId = 64578
-
-fileId = 2322348
-
-sourceFileName = EnderIO-1.7.10-2.3.0.429_beta.jar
-
 [EnderIO Addons]
 type = curseforge
 
@@ -1302,7 +1298,7 @@ destination = mods/Railcraft_1.7.10-9.12.2.0.jar
 
 projectId = 51195
 
-fileId = 2299713
+fileId = 2458987
 
 sourceFileName = Railcraft_1.7.10-9.12.2.0.jar
 
