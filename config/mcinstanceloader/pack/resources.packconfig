@@ -113,13 +113,6 @@ destination = mods/CraftTweaker-3.2.11.jar
 
 url = https://github.com/GTNewHorizons/CraftTweaker/releases/download/3.2.11/CraftTweaker-3.2.11.jar
 
-[Custom Main Menu]
-type = url
-
-destination = mods/custommainmenu-1.7.10-1.9.4.jar
-
-url = https://github.com/GTNewHorizons/Custom-Main-Menu/releases/download/1.9.4/custommainmenu-1.7.10-1.9.4.jar
-
 [EnderIO]
 type = url
 
@@ -994,17 +987,6 @@ fileId = 2230908
 
 sourceFileName = ironchest-1.7.10-6.0.62.742-universal.jar
 
-[ItLt]
-type = curseforge
-
-destination = mods/itlt-1.7.x-1.0.3.jar
-
-projectId = 232791
-
-fileId = 3335234
-
-sourceFileName = itlt-1.7.x-1.0.3.jar
-
 [IvToolkit]
 type = curseforge
 
@@ -1345,17 +1327,6 @@ projectId = 70631
 fileId = 2277490
 
 sourceFileName = RedstoneArsenal-[1.7.10]1.1.2-92.jar
-
-[ResourceLoader]
-type = curseforge
-
-destination = mods/ResourceLoader-MC1.7.10-1.3.jar
-
-projectId = 226447
-
-fileId = 2292845
-
-sourceFileName = ResourceLoader-MC1.7.10-1.3.jar
 
 [rfTools]
 type = curseforge
