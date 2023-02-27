@@ -440,15 +440,32 @@ versionId = mcFNvgsV
 
 sourceFileName = Decocraft-2.4.2_1.7.10.jar
 
-[Novacraft]
+[ASMC]
 type = modrinth
 
-destination = mods/NovaCraft Release V1.0.2.1 (1.7.10).jar
+destination = mods/ASMC-1.7.10-1.0.2.jar
 
-versionId = BIYgG2BT
+versionId = ocJww0CQ
 
-sourceFileName = NovaCraft Release V1.0.2.1 (1.7.10).jar
+sourceFileName = ASMC-1.7.10-1.0.2.jar
 
+[MAtmos]
+type = modrinth
+
+destination = mods/matmos-1.7.10-35.4.7.jar
+
+versionId = 3WBCx6r6
+
+sourceFileName = matmos-1.7.10-35.4.7.jar
+
+[ChocoCraft]
+type = modrinth
+
+destination = mods/ChocoCraft-4.1.5.jar
+
+versionId = 1AmSO7cb
+
+sourceFileName = ChocoCraft-4.1.5.jar
 
 
 #[name]
@@ -1172,17 +1189,6 @@ fileId = 4034362
 
 sourceFileName = ModernKeyBinding-Forge-1.7.10-2.1.0-mixinless.jar
 
-[Splash Screen]
-type = curseforge
-
-projectId  = 629058
-
-destination = mods/modernsplash-1.7.10-1.2.1-d88da6a.dirty.jar
-
-fileId = 4347198
-
-sourceFileName = modernsplash-1.7.10-1.2.1-d88da6a.dirty.jar
-
 [More Chisels]
 type = curseforge
 
@@ -1635,6 +1641,34 @@ fileId = 2279900
 
 sourceFileName = SpecialMobs-1.7.10-3.2.2.jar
 
+[Uncharted]
+type = curseforge
+
+destination = mods/Uncharted - 1.7.10 - v03
+
+projectId = 243470
+
+fileId = 2304482
+
+sourceFileName = Uncharted - 1.7.10 - v03
+
+[Shipwrecks!]
+type = curseforge
+
+destination = mods/shipwrecks-mc1.7.10-1.7.1
+
+projectId = 291608
+
+fileId = 3275625
+
+sourceFileName = shipwrecks-mc1.7.10-1.7.1
+
+
+
+
+
+
+
 
 
 # [name]
@@ -1647,7 +1681,6 @@ sourceFileName = SpecialMobs-1.7.10-3.2.2.jar
 # fileId = -
 
 # sourceFileName = 
-
 
 
 
