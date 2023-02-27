@@ -366,6 +366,15 @@ destination = mods/WitcheryExtras-1.1.14.jar
 
 url = https://github.com/GTNewHorizons/WitcheryExtras/releases/download/1.1.14/WitcheryExtras-1.1.14.jar
 
+[CustomMainMenu]
+type=url
+
+destination = mods/custommainmenu-1.7.10-1.9.4.jar
+
+url = https://github.com/GTNewHorizons/Custom-Main-Menu/releases/download/1.9.4/custommainmenu-1.7.10-1.9.4.jar
+
+
+
 
 
 
@@ -470,6 +479,11 @@ sourceFileName = ChocoCraft-4.1.5.jar
 #versionId = -
 
 #sourceFileName =  
+
+
+
+
+
 
 
 
