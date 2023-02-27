@@ -1,0 +1,24 @@
+{
+  "ftbl": {
+    "item_ore_names": false,
+    "item_reg_names": false,
+    "notifications": "screen",
+    "reload_client_cmd": "reload_client"
+  },
+  "sidebar_buttons": {
+    "ftbu.guide": false,
+    "ftbu.server_info": false,
+    "ftbu.claimed_chunks": true
+  },
+  "ftbu": {
+    "render_badges": true,
+    "sort_friends_az": false,
+    "loaded_chunks_space_key": false
+  },
+  "ftbu_guide": {
+    "unicode": true,
+    "text_color": -8690380,
+    "bg_color": -527142,
+    "transparency": 240
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "backups": {
+    "enabled": false,
+    "backups_to_keep": 0,
+    "backup_timer": 2.0,
+    "compression_level": 1,
+    "folder": "./backups/",
+    "display_file_size": true,
+    "use_separate_thread": true,
+    "need_online_players": true
+  },
+  "commands": {
+    "name_admin": "admin",
+    "back": true,
+    "home": true,
+    "spawn": true,
+    "tplast": true,
+    "warp": true
+  },
+  "general": {
+    "restart_timer": 0.0,
+    "safe_spawn": false,
+    "spawn_pvp": true,
+    "blocked_entities": [],
+    "spawn_area_in_sp": false,
+    "server_info_difficulty": true,
+    "server_info_mode": true
+  },
+  "login": {
+    "motd": [
+      "Welcome to the server!"
+    ],
+    "starting_items": [
+      "minecraft:apple 16 0"
+    ]
+  },
+  "tops": {
+    "first_joined": true,
+    "last_seen": true,
+    "time_played": true,
+    "deaths": true,
+    "deaths_ph": true
+  },
+  "chunkloading": {
+    "enabled": true,
+    "max_player_offline_hours": -1.0
+  },
+  "permissions_admin": {
+    "custom_config": {},
+    "max_claims": 1000,
+    "max_homes": 100,
+    "cross_dim_homes": true,
+    "forced_explosions": "-",
+    "forced_chunk_security": "-",
+    "break_whitelist": [
+      "OpenBlocks:grave"
+    ],
+    "dimension_blacklist": [],
+    "allow_creative_interact_secure": true,
+    "max_loaded_chunks": 50,
+    "show_rank": true,
+    "badge": ""
+  },
+  "permissions_player": {
+    "custom_config": {},
+    "max_claims": 100,
+    "max_homes": 1,
+    "cross_dim_homes": true,
+    "forced_explosions": "-",
+    "forced_chunk_security": "-",
+    "break_whitelist": [
+      "OpenBlocks:grave"
+    ],
+    "dimension_blacklist": [],
+    "allow_creative_interact_secure": false,
+    "max_loaded_chunks": 50,
+    "show_rank": true,
+    "badge": ""
+  }
+}

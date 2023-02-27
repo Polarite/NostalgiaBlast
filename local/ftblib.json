@@ -1,0 +1,17 @@
+{
+  "compat": {
+    "compat_statusEffectHUD": false
+  },
+  "commands": {
+    "override_list": true,
+    "override_help": true,
+    "set_item_name": "op",
+    "trash_can": "all"
+  },
+  "command_names": {
+    "reload": "reload",
+    "edit_config": "edit_config",
+    "set_item_name": "set_item_name",
+    "trash_can": "trash_can"
+  }
+}
