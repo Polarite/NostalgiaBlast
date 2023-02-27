@@ -1,12 +1,6 @@
 
 #Github
 
-[UniMixins]
-type = url
-
-destination = mods/_unimixins-all-1.7.10-0.1.4.jar
-
-url = https://github.com/LegacyModdingMC/UniMixins/releases/download/0.1.4/_unimixins-all-1.7.10-0.1.4.jar
 
 [AE2 Fluid Crafting]
 type = url
