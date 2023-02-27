@@ -501,13 +501,13 @@ sourceFileName = AOBD-2.9.2.jar
 [AOBDOC]
 type = curseforge
 
-destination = mods/AOBD-2.9.2.jar
+destination = mods/AOBDOC-1.0.5.jar
 
 projectId = 252890
 
 fileId = 2359054
 
-sourceFileName = AOBD-2.9.2.jar
+sourceFileName = AOBDOC-1.0.5.jar
 
 [AppleCore]
 type = curseforge
