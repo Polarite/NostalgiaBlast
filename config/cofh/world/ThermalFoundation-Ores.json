@@ -1,7 +1,9 @@
 {
     "copper": {
         "template": "uniform",
-        "block": "IC2:blockOreCopper",
+        "block": [
+            {"name": "TinkersConstruct:SearedBrick", "metadata": 3}
+        ],
         "clusterSize": 8,
         "numClusters": 10,
         "minHeight": 40,
@@ -18,7 +20,9 @@
     },
     "tin": {
         "template": "uniform",
-        "block": "IC2:blockOreTin",
+        "block": [
+            {"name": "TinkersConstruct:SearedBrick", "metadata": 4}
+        ],
         "clusterSize": 8,
         "numClusters": 8,
         "minHeight": 20,
@@ -114,7 +118,9 @@
     },
     "copperHigh": {
         "template": "uniform",
-        "block": "IC2:blockOreCopper",
+        "block": [
+            {"name": "TinkersConstruct:SearedBrick", "metadata": 3}
+        ],
         "clusterSize": 8,
         "numClusters": 8,
         "minHeight": 48,
