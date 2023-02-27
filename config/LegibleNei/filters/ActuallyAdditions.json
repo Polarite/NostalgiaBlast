@@ -1,6 +1,0 @@
-{
-ActuallyAdditions:[
-	{keep-one:[[itemGrowthring,itemSuctionring,itemWaterremovalring,itemDrill,itemBattery*,itemTelestaff],[],[*energy*,*amount*]]};
-	{hide:[[itembucket*],[]]};
-]
-}

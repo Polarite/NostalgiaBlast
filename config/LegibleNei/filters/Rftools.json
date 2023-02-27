@@ -1,6 +1,0 @@
-{
-rftools:[
-    {keep:[[knownDimlet,dimlettypecontrolleritem,dimletmemoryunititem,dimletcontrolcircuititem],[0]]};
-    {hide:[[*shieldblock,proxyblock],[]]};
-]
-}

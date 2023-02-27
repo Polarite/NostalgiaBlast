@@ -1,6 +1,0 @@
-{
-Botany:[
-	{hide:[[soil*,loam*,flowerbed*,seed,pollen,ceramicPattern,pigment,itemFlower,insulatedTube],[]]};
-	{keep:[[ceramicBrick,stained,ceramic,clay],[0]]};
-	]
-}

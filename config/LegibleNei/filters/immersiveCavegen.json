@@ -1,6 +1,0 @@
-{
-immersivecavegen:[
-    {keep:[[],[0]]};
-    {hide:[[*Stalactite,*Salactite,spawn*,caveplant,itemtabplaceholder,glowmushroom*,scorched*,glowlily*],[]]};
-]
-}
