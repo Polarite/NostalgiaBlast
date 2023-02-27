@@ -440,24 +440,6 @@ versionId = mcFNvgsV
 
 sourceFileName = Decocraft-2.4.2_1.7.10.jar
 
-[SuperSoundMuffler]
-type = modrinth
-
-destination = mods/ssmlegacy-mc1.7.10-1.2.0.jar
-
-versionId = 9C4GXwu7
-
-sourceFileName = ssmlegacy-mc1.7.10-1.2.0.jar
-
-[WhereAreTheOres?]
-type = modrinth
-
-destination = mods/WhereAreTheOres-1.1.1.jar
-
-versionId = j4aPEjPP
-
-sourceFileName = WhereAreTheOres-1.1.1.jar
-
 [Novacraft]
 type = modrinth
 
