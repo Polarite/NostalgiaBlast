@@ -302,13 +302,6 @@ destination = mods/StorageDrawersMisc-1.7.10-1.11.18-GTNH.jar
 
 url = https://github.com/GTNewHorizons/StorageDrawers-Misc/releases/download/1.11.18-GTNH/StorageDrawersMisc-1.7.10-1.11.18-GTNH.jar
 
-[TaintedMagic]
-type = url
-
-destination = mods/Tainted-Magic-7.6.2-GTNH.jar
-
-url = https://github.com/GTNewHorizons/Tainted-Magic/releases/download/7.6.2-GTNH/Tainted-Magic-7.6.2-GTNH.jar
-
 [Thaumcraft NEI Additions]
 type = url
 
@@ -1422,6 +1415,17 @@ projectId = 223584
 fileId = 2254706
 
 sourceFileName = Tails-1.7.10-1.4.1a.jar
+
+[Tainted Magic]
+type = curseforge
+
+destination = mods/Tainted-Magic-1.7.10-8.1.1.jar
+
+projectId = 221863
+
+fileId = 3634109
+
+sourceFileName = Tainted-Magic-1.7.10-8.1.1.jar
 
 [Thaumcraft Inventory Scan]
 type = curseforge
