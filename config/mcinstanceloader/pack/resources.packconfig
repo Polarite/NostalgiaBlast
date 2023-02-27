@@ -431,6 +431,55 @@ versionId = uxSWLWki
 
 sourceFileName = TileEntityResetFix-1.0.1-noreq.jar
 
+[Decocraft]
+type = modrinth
+
+destination = mods/Decocraft-2.4.2_1.7.10.jar
+
+versionId = mcFNvgsV
+
+sourceFileName = Decocraft-2.4.2_1.7.10.jar
+
+[SuperSoundMuffler]
+type = modrinth
+
+destination = mods/ssmlegacy-mc1.7.10-1.2.0.jar
+
+versionId = 9C4GXwu7
+
+sourceFileName = ssmlegacy-mc1.7.10-1.2.0.jar
+
+[WhereAreTheOres?]
+type = modrinth
+
+destination = mods/WhereAreTheOres-1.1.1.jar
+
+versionId = j4aPEjPP
+
+sourceFileName = WhereAreTheOres-1.1.1.jar
+
+[Novacraft]
+type = modrinth
+
+destination = mods/NovaCraft Release V1.0.2.1 (1.7.10).jar
+
+versionId = BIYgG2BT
+
+sourceFileName = NovaCraft Release V1.0.2.1 (1.7.10).jar
+
+
+
+#[name]
+#type = modrinth
+
+#destination = mods/
+
+#versionId = -
+
+#sourceFileName =  
+
+
+
 
 # Curseforge
 
@@ -1570,6 +1619,40 @@ fileId = 2309393
 
 sourceFileName = ZDoctorBB-1.7.10-Server.jar
 
+[Enderlicious]
+ type = curseforge
+
+ destination = mods/enderlicious-1.1.2.jar
+
+projectId = 508777
+
+ fileId = 3504111
+
+ sourceFileName = enderlicious-1.1.2.jar
+
+
+[InfernalMobs]
+type = curseforge
+
+destination = mods/InfernalMobs-1.7.10.jar
+
+projectId = 227875
+
+fileId = 2227584
+
+sourceFileName = InfernalMobs-1.7.10.jar
+
+[SpecialMobs]
+type = curseforge
+
+destination = mods/SpecialMobs-1.7.10-3.2.2.jar
+
+projectId = 59968
+
+fileId = 2279900
+
+sourceFileName = SpecialMobs-1.7.10-3.2.2.jar
+
 
 
 # [name]
@@ -1577,10 +1660,11 @@ sourceFileName = ZDoctorBB-1.7.10-Server.jar
 
 # destination = mods/
 
+# projectId = -
+
 # fileId = -
 
-# sourceFileName = -
-
+# sourceFileName = 
 
 
 
@@ -1619,3 +1703,11 @@ sourceFileName = ZDoctorBB-1.7.10-Server.jar
  url = https://github.com/jss2a98aj/NotFine/releases/download/alpha-19/notfine-alpha-19.jar
 
  optional = true
+
+
+
+
+
+
+
+
