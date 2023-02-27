@@ -586,16 +586,16 @@ fileId = 2229574
 
 sourceFileName = BiblioWoods[Forestry][v1.7].jar
 
-[BiblioWoods Natura]
-type = curseforge
+# [BiblioWoods Natura]
+# type = curseforge
 
-destination = mods/BiblioWoods[Natura][v1.5].jar
+# destination = mods/BiblioWoods[Natura][v1.5].jar
 
-projectId = 228364
+# projectId = 228364
 
-fileId = 2229581
+#  fileId = 2229581
 
-sourceFileName = BiblioWoods[Natura][v1.5].jar
+# sourceFileName = BiblioWoods[Natura][v1.5].jar
 
 [Biggerpackets]
 type = curseforge
