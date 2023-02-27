@@ -2,7 +2,7 @@
     "copper": {
         "template": "uniform",
         "block": [
-            {"name": "TinkersConstruct:SearedBrick", "metadata": 3}
+            {"name": "TConstruct:SearedBrick", "metadata": 3}
         ],
         "clusterSize": 8,
         "numClusters": 10,
@@ -21,7 +21,7 @@
     "tin": {
         "template": "uniform",
         "block": [
-            {"name": "TinkersConstruct:SearedBrick", "metadata": 4}
+            {"name": "TConstruct:SearedBrick", "metadata": 4}
         ],
         "clusterSize": 8,
         "numClusters": 8,
@@ -119,7 +119,7 @@
     "copperHigh": {
         "template": "uniform",
         "block": [
-            {"name": "TinkersConstruct:SearedBrick", "metadata": 3}
+            {"name": "TConstruct:SearedBrick", "metadata": 3}
         ],
         "clusterSize": 8,
         "numClusters": 8,
