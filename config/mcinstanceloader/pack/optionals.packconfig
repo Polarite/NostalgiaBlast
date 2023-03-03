@@ -23,15 +23,6 @@ option2.resources = Notfine
 
 title = [Optional Mods]   
 
-maxchoices = 3    
-minchoices = 0   
-
-
-option1.name = Light Overlay   
-option1.description = Show light levels when you press F7
-option1.default = true
-option1.resources = LightOverlay
-
 
 option2.name = Item Physics
 option2.description = Enable Item Physics client side, might affect performance
