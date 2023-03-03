@@ -2,7 +2,7 @@
 
 [Menu 1]
 
-title = [Optional Mods]   
+title = [Optimization Mods]   
 
 maxchoices = 1     
 minchoices = 1    
@@ -19,12 +19,36 @@ option2.description = These are the optimizations made by the developers of the 
 option2.default = true
 option2.resources = Notfine
 
-
-
 [Menu 2]
+
+title = [Optional Mods]   
+
+maxchoices = 3    
+minchoices = 0   
+
+
+option1.name = Light Overlay   
+option1.description = Show light levels when you press F7
+option1.default = true
+option1.resources = LightOverlay
+
+
+option2.name = Item Physics
+option2.description = Enable Item Physics client side, might affect performance
+option2.default = true
+option2.resources = ItemPhysics
+
+
+option3.name = Sound Overhaul
+option3.description = Overhauls how sounds and enviromental voices work, requires you to enable texturepacks later on
+option3.default = true
+option3.resources = matmos, soundphysics, zen
+
+
+[Menu 3]
 title = [Resource Packs]
 
 option1.name = Updated Textures For Mods
-option1.description = This is the updated textures for the modpack specially made by me, it has updated textures for most mods.
+option1.description = This is extras for updated textures, made by Astrotibs, you need to enable texturepack later on, suggested because I have implemented embed future textures already
 option1.default = true
 option1.resources = updatedtextures 
