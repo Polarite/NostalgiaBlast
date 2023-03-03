@@ -1727,6 +1727,62 @@ sourceFileName = shipwrecks-mc1.7.10-1.7.1
 
  optional = true
 
+[zen]
+ type = url
+
+ destination = resourcepacks/mat_zen-35-1.2.2.zip
+
+ url = https://github.com/makamys/MAtmos-2020-Zen/releases/download/35-v1.2.2/mat_zen-35-1.2.2.zip
+
+ optional = true
+ 
+[matmos]
+ type = modrinth
+
+ destination = mods/matmos-1.7.10-35.4.7.jar
+
+ versionId = 1AmSO7cb
+
+ sourceFileName = matmos-1.7.10-35.4.7.jar
+
+ optional = true
+ 
+ [soundphysics]
+ type = url
+
+ destination = mods/Sound-Physics-1.7.10.jar
+
+ url = https://dl.dropboxusercontent.com/s/k5f5vodw5fw32kp/Sound-Physics-1.7.10.jar?dl=0
+
+ optional = true
+ 
+[updatedtextures]
+ type = curseforge
+
+ destination = resourcepacks/Modernity-format1-v3.8.1.zip
+
+ projectId = 300317
+
+ fileId = 4376271
+
+ sourceFileName = Modernity-format1-v3.8.1.zip
+
+ optional = true
+ 
+ 
+ [updatedtextures]
+ type = curseforge
+
+ destination = resourcepacks/Modernity-format1-v3.8.1.zip
+
+ projectId = 300317
+
+ fileId = 4376271
+
+ sourceFileName = Modernity-format1-v3.8.1.zip
+
+ optional = true
+ 
 
 
 
