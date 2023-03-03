@@ -212,13 +212,6 @@ destination = mods/NEIAddons-1.7.10-1.12.22.jar
 
 url = https://github.com/GTNewHorizons/neiaddons/releases/download/1.12.22/NEIAddons-1.7.10-1.12.22.jar
 
-[NEI Integration]
-type = url
-
-destination = mods/NEIIntegration-1.7.10-1.2.3.jar
-
-url = https://github.com/GTNewHorizons/NEI-Integration/releases/download/1.2.3/NEIIntegration-1.7.10-1.2.3.jar
-
 [Neodymium]
 type = url
 
@@ -1671,7 +1664,16 @@ fileId = 3275625
 
 sourceFileName = shipwrecks-mc1.7.10-1.7.1
 
+[NEIIntegration]
+ type = curseforge
 
+ destination = mods/NEIIntegration-MC1.7.10-1.1.2.jar
+
+ projectId = 225251
+
+ fileId = 2282522
+
+ sourceFileName = NEIIntegration-MC1.7.10-1.1.2.jar
 
 
 
