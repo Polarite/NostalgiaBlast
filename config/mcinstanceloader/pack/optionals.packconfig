@@ -21,6 +21,9 @@ option2.resources = Notfine
 
 [Menu 2]
 
+maxchoices = 2
+minchoices = 0
+
 title = [Optional Mods]   
 
 
