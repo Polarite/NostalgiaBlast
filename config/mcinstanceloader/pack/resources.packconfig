@@ -1714,7 +1714,7 @@ sourceFileName = shipwrecks-mc1.7.10-1.7.1
 
  destination = mods/Optifine.jar
 
- url = https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_D6.jar
+ url = https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_D8.jar
 
  follows = Download
 
