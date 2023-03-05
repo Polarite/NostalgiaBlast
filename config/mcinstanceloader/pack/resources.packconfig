@@ -520,6 +520,17 @@ fileId = 3479308
 
 sourceFileName = alreadydecoratingfix-1.0a.jar
 
+[Aroma1997Core]
+type = curseforge
+
+destination = mods/Aroma1997Core-1.7.10-1.0.2.16.jar
+
+projectId = 223735
+
+fileId = 2257644
+
+sourceFileName = Aroma1997Core-1.7.10-1.0.2.16.jar
+
 [AOBD]
 type = curseforge
 
@@ -1522,6 +1533,17 @@ fileId = 2329986
 
 sourceFileName = UniDict-1.7.10-2.9.2.jar
 
+[Uncomplication]
+type = curseforge
+
+destination = mods/Uncomplication-1.7.10-0.1.2.1.b77.jar
+
+projectId = 242917
+
+fileId = 2295873
+
+sourceFileName = Uncomplication-1.7.10-0.1.2.1.b77.jar
+
 [Uniq]
 type = curseforge
 
@@ -1554,6 +1576,17 @@ projectId = 245755
 fileId = 2559125
 
 sourceFileName = Waystones-mc1.7.10-0.24.1.jar
+
+[Wireless Industry]
+type = curseforge
+
+destination = mods/wirelessindustry-0.7.20.jar
+
+projectId = 377164
+
+fileId = 3829558
+
+sourceFileName = wirelessindustry-0.7.20.jar
 
 [Witchery]
 type = curseforge
