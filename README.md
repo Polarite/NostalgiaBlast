@@ -1,5 +1,11 @@
 # NostalgiaBlast
-The Github Page For Nostalgia Blast
+The Github Page For Nostalgia Blast, a modpack made for 1.7.10 Minecraft. You can learn more from these links:
+
+Modrinth Link: https://modrinth.com/modpack/tsundere-nostalgia-blast
+
+CursedForge Link: https://www.curseforge.com/minecraft/modpacks/tsundere-unity-nostalgia-blast
+
+Technic Link: https://www.technicpack.net/modpack/nostalgia-blast.1958033
 
 # How to test?
 

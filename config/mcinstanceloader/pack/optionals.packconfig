@@ -21,19 +21,22 @@ option2.resources = Notfine
 
 [Menu 2]
 
+maxchoices = 2
+minchoices = 0
+
 title = [Optional Mods]   
 
 
-option2.name = Item Physics
-option2.description = Enable Item Physics client side, might affect performance
+option1.name = Item Physics
+option1.description = Enable Item Physics client side, might affect performance
+option1.default = true
+option1.resources = ItemPhysics
+
+
+option2.name = Sound Overhaul
+option2.description = Overhauls how sounds and enviromental voices work, requires you to enable texturepacks later on
 option2.default = true
-option2.resources = ItemPhysics
-
-
-option3.name = Sound Overhaul
-option3.description = Overhauls how sounds and enviromental voices work, requires you to enable texturepacks later on
-option3.default = true
-option3.resources = matmos, soundphysics, zen
+option2.resources = matmos, soundphysics, zen
 
 
 [Menu 3]
