@@ -445,15 +445,6 @@ versionId = ocJww0CQ
 
 sourceFileName = ASMC-1.7.10-1.0.2.jar
 
-[MAtmos]
-type = modrinth
-
-destination = mods/matmos-1.7.10-35.4.7.jar
-
-versionId = 3WBCx6r6
-
-sourceFileName = matmos-1.7.10-35.4.7.jar
-
 [ChocoCraft]
 type = modrinth
 
