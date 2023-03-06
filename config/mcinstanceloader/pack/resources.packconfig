@@ -247,15 +247,6 @@ destination = mods/NOVA-2016-07-21-universal.jar
 
 url = https://dl.dropboxusercontent.com/s/ujclz8p29f3u9k9/NOVA-2016-07-21-universal.jar?dl=0
 
-[Novacraft]
-type = modrinth
-
-destination = mods/NovaCraft Release V1.0.3 (1.7.10).jar
-
-versionId = 7V57whNG
-
-sourceFileName = NovaCraft Release V1.0.3 (1.7.10).jar
-
 [Open Blocks]
 type = url
 
@@ -417,6 +408,15 @@ destination = mods/immersivecavegen-1.2g-hotfix4.jar
 versionId = 1PmM7Waa
 
 sourceFileName = immersivecavegen-1.2g-hotfix4.jar
+
+[Novacraft]
+type = modrinth
+
+destination = mods/NovaCraft Release V1.0.3 (1.7.10).jar
+
+versionId = 7V57whNG
+
+sourceFileName = NovaCraft Release V1.0.3 (1.7.10).jar
 
 [TabFaces]
 type = modrinth
