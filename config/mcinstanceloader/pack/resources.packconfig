@@ -5,9 +5,9 @@
 [AE2 Fluid Crafting]
 type = url
 
-destination = mods/ae2fc-1.0.83-gtnh.jar
+destination = mods/ae2fc-1.0.91-gtnh.jar
 
-url = https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.0.83-gtnh/ae2fc-1.0.83-gtnh.jar
+url = https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.0.91-gtnh/ae2fc-1.0.91-gtnh.jar
 
 [AE2 Stuff]
 type = url
@@ -19,9 +19,9 @@ url = https://github.com/GTNewHorizons/ae2stuff/releases/download/0.5.1.15-GTNH/
 [AE2]
 type = url
 
-destination = mods/appliedenergistics2-rv3-beta-166-GTNH-pre.jar
+destination = mods/appliedenergistics2-rv3-beta-173-GTNH.jar
 
-url = https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-166-GTNH-pre/appliedenergistics2-rv3-beta-166-GTNH-pre.jar
+url = https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-173-GTNH/appliedenergistics2-rv3-beta-173-GTNH.jar
 
 [ArchaicFix]
 type = url
@@ -33,9 +33,9 @@ url = https://github.com/embeddedt/ArchaicFix/releases/download/0.5.0/archaicfix
 [Backpack]
 type = url
 
-destination = mods/backpack-1.7.10-2.2.8-GTNH.jar
+destination = mods/backpack-2.2.9-GTNH.jar
 
-url = https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/releases/download/2.2.8-GTNH/backpack-1.7.10-2.2.8-GTNH.jar
+url = https://github.com/GTNewHorizons/Minecraft-Backpack-Mod/releases/download/2.2.9-GTNH/backpack-2.2.9-GTNH.jar
 
 [Backport5160]
 type = url
@@ -54,9 +54,9 @@ url = https://github.com/GTNewHorizons/bdlib/releases/download/1.9.8-GTNH/bdlib-
 [BetterP2P]
 type = url
 
-destination = mods/betterp2p-1.0.19.jar
+destination = mods/betterp2p-1.0.23.jar
 
-url = https://github.com/GTNewHorizons/BetterP2P/releases/download/1.0.19/betterp2p-1.0.19.jar
+url = https://github.com/GTNewHorizons/BetterP2P/releases/download/1.0.23/betterp2p-1.0.23.jar
 
 [Binnie]
 type = url
@@ -89,9 +89,9 @@ url = https://github.com/GTNewHorizons/Botania/releases/download/1.9.15-GTNH/Bot
 [BugTorch]
 type = url
 
-destination = mods/bugtorch-1.2.3.jar
+destination = mods/bugtorch-1.2.5.jar
 
-url = https://github.com/jss2a98aj/BugTorch/releases/download/1.2.3/bugtorch-1.2.3.jar
+url = https://github.com/jss2a98aj/BugTorch/releases/download/1.2.5/bugtorch-1.2.5.jar
 
 [Chisel]
 type = url
@@ -110,9 +110,9 @@ url = https://github.com/GTNewHorizons/CraftTweaker/releases/download/3.2.11/Cra
 [EnderIO]
 type = url
 
-destination = mods/EnderIO-2.3.1.61-pre.jar
+destination = mods/EnderIO-2.3.1.68.jar
 
-url = https://github.com/GTNewHorizons/EnderIO/releases/download/2.3.1.61-pre/EnderIO-2.3.1.61-pre.jar
+url = https://github.com/GTNewHorizons/EnderIO/releases/download/2.3.1.68/EnderIO-2.3.1.68.jar
 
 [Forestry]
 type = url
@@ -145,9 +145,9 @@ url = https://github.com/GTNewHorizons/gendustry/releases/download/1.6.5.5-GTNH/
 [GTNHLib]
 type = url
 
-destination = mods/gtnhlib-0.0.12.jar
+destination = mods/gtnhlib-0.0.13.jar
 
-url = https://github.com/GTNewHorizons/GTNHLib/releases/download/0.0.12/gtnhlib-0.0.12.jar
+url = https://github.com/GTNewHorizons/GTNHLib/releases/download/0.0.13/gtnhlib-0.0.13.jar
 
 [Healer]
 type = url
@@ -159,16 +159,16 @@ url = https://github.com/Glease/Healer/releases/download/1.2.1/Healer-1.2.1.jar
 [HodgePodge]
 type = url
 
-destination = mods/hodgepodge-2.0.36.jar
+destination = mods/hodgepodge-2.0.43.jar
 
-url = https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.0.36/hodgepodge-2.0.36.jar
+url = https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.0.43/hodgepodge-2.0.43.jar
 
 [Iguana Tweaks]
 type = url
 
-destination = mods/IguanaTweaksTConstruct-2.2.7.jar
+destination = mods/IguanaTweaksTConstruct-2.2.9.jar
 
-url = https://github.com/GTNewHorizons/IguanaTweaksTConstruct/releases/download/2.2.7/IguanaTweaksTConstruct-2.2.7.jar
+url = https://github.com/GTNewHorizons/IguanaTweaksTConstruct/releases/download/2.2.9/IguanaTweaksTConstruct-2.2.9.jar
 
 [Inventory Tweaks]
 type = url
@@ -184,7 +184,7 @@ destination = mods/lazydfu-1.0.0.jar
 
 url = https://dl.dropboxusercontent.com/s/9f3bxhihpwnof2b/lazydfu-agent-1.0.0.jar?dl=0
 
-[magicbees]
+[MagicBees]
 type = url
 
 destination = mods/magicbees-1.7.10-2.5.16-GTNH.jar
@@ -215,9 +215,9 @@ url = https://github.com/GTNewHorizons/neiaddons/releases/download/1.12.22/NEIAd
 [Neodymium]
 type = url
 
-destination = mods/neodymium-1.7.10-0.1.6.jar
+destination = mods/neodymium-1.7.10-0.1.7.jar
 
-url = https://github.com/makamys/Neodymium/releases/download/0.1.6/neodymium-1.7.10-0.1.6.jar
+url = https://github.com/makamys/Neodymium/releases/download/0.1.7/neodymium-1.7.10-0.1.7.jar
 
 [NetherPortalFix]
 type = url
@@ -247,12 +247,21 @@ destination = mods/NOVA-2016-07-21-universal.jar
 
 url = https://dl.dropboxusercontent.com/s/ujclz8p29f3u9k9/NOVA-2016-07-21-universal.jar?dl=0
 
+[Novacraft]
+type = modrinth
+
+destination = mods/NovaCraft Release V1.0.2.1 (1.7.10).jar
+
+versionId = BIYgG2BT
+
+sourceFileName = NovaCraft Release V1.0.2.1 (1.7.10).jar
+
 [Open Blocks]
 type = url
 
-destination = mods/OpenBlocks-1.7.10-1.6.9-GTNH.jar
+destination = mods/OpenBlocks-1.6.10-GTNH.jar
 
-url = https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.6.9-GTNH/OpenBlocks-1.7.10-1.6.9-GTNH.jar
+url = https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.6.10-GTNH/OpenBlocks-1.6.10-GTNH.jar
 
 [RandomThings]
 type = url
@@ -264,9 +273,9 @@ url = https://github.com/GTNewHorizons/Random-Things/releases/download/2.4.3/Ran
 [Storage Drawers]
 type = url
 
-destination = mods/StorageDrawers-1.7.10-1.11.19-GTNH.jar
+destination = mods/StorageDrawers-1.11.20-GTNH.jar
 
-url = https://github.com/GTNewHorizons/StorageDrawers/releases/download/1.11.19-GTNH/StorageDrawers-1.7.10-1.11.19-GTNH.jar
+url = https://github.com/GTNewHorizons/StorageDrawers/releases/download/1.11.20-GTNH/StorageDrawers-1.11.20-GTNH.jar
 
 [StorageDrawersBoP]
 type = url
@@ -299,16 +308,16 @@ url = https://github.com/GTNewHorizons/TCNEIAdditions/releases/download/1.1.1.10
 [Tinkers Construct]
 type = url
 
-destination = mods/TConstruct-1.9.23-GTNH.jar
+destination = mods/TConstruct-1.9.24-GTNH.jar
 
-url = https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.9.23-GTNH/TConstruct-1.9.23-GTNH.jar
+url = https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.9.24-GTNH/TConstruct-1.9.24-GTNH.jar
 
 [ThaumicEnergistics]
 type=url
 
-destination = mods/thaumicenergistics-1.7.10-1.3.28-GTNH.jar
+destination = mods/thaumicenergistics-1.3.29-GTNH.jar
 
-url = https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.3.28-GTNH/thaumicenergistics-1.7.10-1.3.28-GTNH.jar
+url = https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.3.29-GTNH/thaumicenergistics-1.3.29-GTNH.jar
 
 [ThaumicTinkerer]
 type=url
@@ -320,9 +329,9 @@ url = https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.6.12/
 [Waila]
 type=url
 
-destination = mods/Waila-1.5.23.jar
+destination = mods/Waila-1.5.24.jar
 
-url = https://github.com/GTNewHorizons/waila/releases/download/1.5.23/Waila-1.5.23.jar
+url = https://github.com/GTNewHorizons/waila/releases/download/1.5.24/Waila-1.5.24.jar
 
 [WailaHarvestability]
 type=url
@@ -341,7 +350,7 @@ url = https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.2.5/WAIL
 [Wawla]
 type=url
 
-destination = mods/Wawla-1.7.10-1.1.13-GTNH.jar
+destination = mods/Wawla-1.7.10-1.1.3-GTNH.jar
 
 url = https://github.com/GTNewHorizons/WAWLA/releases/download/1.1.3-GTNH/Wawla-1.7.10-1.1.3-GTNH.jar
 
@@ -376,11 +385,11 @@ url = https://github.com/GTNewHorizons/Custom-Main-Menu/releases/download/1.9.4/
 [Baubles]
 type = modrinth
 
-destination = mods/Baubles-1.7.10-2.1.2.jar
+destination = mods/Baubles-1.7.10-2.0.7.jar
 
-versionId = x3xjQZmA
+versionId = qph9YMZZ
 
-sourceFileName = Baubles-1.7.10-2.1.2.jar
+sourceFileName = Baubles-1.7.10-2.0.7.jar
 
 [CodeChickenCore]
 type = modrinth
@@ -408,15 +417,6 @@ destination = mods/immersivecavegen-1.2g-hotfix4.jar
 versionId = 1PmM7Waa
 
 sourceFileName = immersivecavegen-1.2g-hotfix4.jar
-
-[Novacraft]
-type = modrinth
-
-destination = mods/NovaCraft Release V1.0.3 (1.7.10).jar
-
-versionId = 7V57whNG
-
-sourceFileName = NovaCraft Release V1.0.3 (1.7.10).jar
 
 [TabFaces]
 type = modrinth
@@ -462,16 +462,6 @@ destination = mods/ChocoCraft-4.1.5.jar
 versionId = 1AmSO7cb
 
 sourceFileName = ChocoCraft-4.1.5.jar
-
-[Mekanism]
-type = modrinth
-
-destination = mods/Mekanism-Community-Edition-1.7.10-9.10.26-ALL.jar
-
-versionId = FqDIZP6S
-
-sourceFileName =  Mekanism-Community-Edition-1.7.10-9.10.26-ALL.jar
-
 
 
 #[name]
@@ -927,13 +917,13 @@ sourceFileName = FlyingCullers-1.7.10-1.3.jar
 [FoamFix]
 type = curseforge
 
-destination = mods/FoamFix-1.7.10-universal-1.0.3.jar
+destination = mods/FoamFix-1.7.10-universal-1.0.2.jar
 
 projectId = 278494
 
-fileId = 4412744
+fileId = 4054718
 
-sourceFileName = FoamFix-1.7.10-universal-1.0.3.jar
+sourceFileName = FoamFix-1.7.10-universal-1.0.2.jar
 
 [FMP]
 type = curseforge
@@ -1123,6 +1113,39 @@ fileId = 2272449
 
 sourceFileName = mcjtylib-1.8.1.jar
 
+[Mekanism Core]
+type = curseforge
+
+destination = mods/Mekanism-Community-Edition-1.7.10-9.10.26-Core.jar
+
+projectId = 399904
+
+fileId = 4357766
+
+sourceFileName = Mekanism-Community-Edition-1.7.10-9.10.26-Core.jar
+
+# [Mekanism Generators]
+# type = curseforge
+# 
+# destination = mods/Mekanism-Community-Edition-1.12.2-9.12.4-Generators.jar
+# 
+# projectId = 813408
+# 
+# fileId = 4404877
+# 
+# sourceFileName = Mekanism-Community-Edition-1.12.2-9.12.4-Generators.jar
+# 
+# [Mekanism Tools]
+# type = curseforge
+# 
+# destination = mods/Mekanism-Community-Edition-1.12.2-9.12.4-Tools.jar
+# 
+# projectId = 813407
+# 
+# fileId = 4404884
+# 
+# sourceFileName = Mekanism-Community-Edition-1.12.2-9.12.4-Tools.jar
+# 
 [Metallurgy]
 type = curseforge
 
@@ -1236,13 +1259,13 @@ sourceFileName = netherlicious-3.2.8.jar
 [NotEnoughItems]
 type = curseforge
 
-destination = mods/NotEnoughItems-2.3.38-GTNH.jar
+destination = mods/NotEnoughItems-2.3.32-GTNH.jar
 
 projectId = 358228
 
-fileId = 4422980
+fileId = 4397161
 
-sourceFileName = NotEnoughItems-2.3.38-GTNH.jar
+sourceFileName = NotEnoughItems-2.3.32-GTNH.jar
 
 [NotEnoughResources]
 type = curseforge
@@ -1445,13 +1468,13 @@ sourceFileName = Thaumcraft-1.7.10-4.2.3.5.jar
 [Thaumcraft4Tweaks]
 type = curseforge
 
-destination = mods/Thaumcraft4Tweaks-1.5.2.jar
+destination = mods/Thaumcraft4Tweaks-1.7.10-1.4.26.jar
 
 projectId = 431297
 
-fileId = 4421658
+fileId = 4205634
 
-sourceFileName = Thaumcraft4Tweaks-1.5.2.jar
+sourceFileName = Thaumcraft4Tweaks-1.7.10-1.4.26.jar
 
 [ThaumcraftNEIplugin]
 type = curseforge
