@@ -250,11 +250,11 @@ url = https://dl.dropboxusercontent.com/s/ujclz8p29f3u9k9/NOVA-2016-07-21-univer
 [Novacraft]
 type = modrinth
 
-destination = mods/NovaCraft Release V1.0.2.1 (1.7.10).jar
+destination = mods/NovaCraft Release V1.0.3 (1.7.10).jar
 
-versionId = BIYgG2BT
+versionId = 7V57whNG
 
-sourceFileName = NovaCraft Release V1.0.2.1 (1.7.10).jar
+sourceFileName = NovaCraft Release V1.0.3 (1.7.10).jar
 
 [Open Blocks]
 type = url
@@ -385,11 +385,11 @@ url = https://github.com/GTNewHorizons/Custom-Main-Menu/releases/download/1.9.4/
 [Baubles]
 type = modrinth
 
-destination = mods/Baubles-1.7.10-2.0.7.jar
+destination = mods/Baubles-1.7.10-2.1.2.jar
 
-versionId = qph9YMZZ
+versionId = x3xjQZmA
 
-sourceFileName = Baubles-1.7.10-2.0.7.jar
+sourceFileName = Baubles-1.7.10-2.1.2.jar
 
 [CodeChickenCore]
 type = modrinth
@@ -462,6 +462,16 @@ destination = mods/ChocoCraft-4.1.5.jar
 versionId = 1AmSO7cb
 
 sourceFileName = ChocoCraft-4.1.5.jar
+
+[Mekanism]
+type = modrinth
+
+destination = mods/Mekanism-Community-Edition-1.7.10-9.10.26-ALL.jar
+
+versionId = FqDIZP6S
+
+sourceFileName =  Mekanism-Community-Edition-1.7.10-9.10.26-ALL.jar
+
 
 
 #[name]
@@ -917,13 +927,13 @@ sourceFileName = FlyingCullers-1.7.10-1.3.jar
 [FoamFix]
 type = curseforge
 
-destination = mods/FoamFix-1.7.10-universal-1.0.2.jar
+destination = mods/FoamFix-1.7.10-universal-1.0.3.jar
 
 projectId = 278494
 
-fileId = 4054718
+fileId = 4412744
 
-sourceFileName = FoamFix-1.7.10-universal-1.0.2.jar
+sourceFileName = FoamFix-1.7.10-universal-1.0.3.jar
 
 [FMP]
 type = curseforge
@@ -1113,39 +1123,6 @@ fileId = 2272449
 
 sourceFileName = mcjtylib-1.8.1.jar
 
-[Mekanism Core]
-type = curseforge
-
-destination = mods/Mekanism-Community-Edition-1.7.10-9.10.26-Core.jar
-
-projectId = 399904
-
-fileId = 4357766
-
-sourceFileName = Mekanism-Community-Edition-1.7.10-9.10.26-Core.jar
-
-# [Mekanism Generators]
-# type = curseforge
-# 
-# destination = mods/Mekanism-Community-Edition-1.12.2-9.12.4-Generators.jar
-# 
-# projectId = 813408
-# 
-# fileId = 4404877
-# 
-# sourceFileName = Mekanism-Community-Edition-1.12.2-9.12.4-Generators.jar
-# 
-# [Mekanism Tools]
-# type = curseforge
-# 
-# destination = mods/Mekanism-Community-Edition-1.12.2-9.12.4-Tools.jar
-# 
-# projectId = 813407
-# 
-# fileId = 4404884
-# 
-# sourceFileName = Mekanism-Community-Edition-1.12.2-9.12.4-Tools.jar
-# 
 [Metallurgy]
 type = curseforge
 
@@ -1259,13 +1236,13 @@ sourceFileName = netherlicious-3.2.8.jar
 [NotEnoughItems]
 type = curseforge
 
-destination = mods/NotEnoughItems-2.3.32-GTNH.jar
+destination = mods/NotEnoughItems-2.3.38-GTNH.jar
 
 projectId = 358228
 
-fileId = 4397161
+fileId = 4422980
 
-sourceFileName = NotEnoughItems-2.3.32-GTNH.jar
+sourceFileName = NotEnoughItems-2.3.38-GTNH.jar
 
 [NotEnoughResources]
 type = curseforge
@@ -1468,13 +1445,13 @@ sourceFileName = Thaumcraft-1.7.10-4.2.3.5.jar
 [Thaumcraft4Tweaks]
 type = curseforge
 
-destination = mods/Thaumcraft4Tweaks-1.7.10-1.4.26.jar
+destination = mods/Thaumcraft4Tweaks-1.5.2.jar
 
 projectId = 431297
 
-fileId = 4205634
+fileId = 4421658
 
-sourceFileName = Thaumcraft4Tweaks-1.7.10-1.4.26.jar
+sourceFileName = Thaumcraft4Tweaks-1.5.2.jar
 
 [ThaumcraftNEIplugin]
 type = curseforge
