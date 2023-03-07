@@ -296,13 +296,6 @@ destination = mods/tcneiadditions-1.1.1.10.jar
 
 url = https://github.com/GTNewHorizons/TCNEIAdditions/releases/download/1.1.1.10/tcneiadditions-1.1.1.10.jar
 
-[Tinkers Construct]
-type = url
-
-destination = mods/TConstruct-1.9.24-GTNH.jar
-
-url = https://github.com/GTNewHorizons/TinkersConstruct/releases/download/1.9.24-GTNH/TConstruct-1.9.24-GTNH.jar
-
 [ThaumicEnergistics]
 type=url
 
@@ -1410,6 +1403,17 @@ projectId = 231061
 fileId = 3634109
 
 sourceFileName = Tainted-Magic-1.7.10-8.1.1.jar
+
+[TConstruct]
+type = curseforge
+
+destination = mods/TConstruct-1.7.10-1.8.8.jar
+
+projectId = 74072
+
+fileId = 2264246
+
+sourceFileName = TConstruct-1.7.10-1.8.8.jar
 
 [Thaumcraft Inventory Scan]
 type = curseforge
