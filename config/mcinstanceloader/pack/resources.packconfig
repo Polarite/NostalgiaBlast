@@ -412,11 +412,11 @@ sourceFileName = immersivecavegen-1.2g-hotfix4.jar
 [Novacraft]
 type = modrinth
 
-destination = mods/NovaCraft Release V1.0.3 (1.7.10).jar
+destination = mods/NovaCraft Release V1.0.3.1 (1.7.10).jar
 
-versionId = 7V57whNG
+versionId = JSamMPmQ
 
-sourceFileName = NovaCraft Release V1.0.3 (1.7.10).jar
+sourceFileName = NovaCraft Release V1.0.3.1 (1.7.10).jar
 
 [TabFaces]
 type = modrinth
@@ -453,15 +453,6 @@ destination = mods/ASMC-1.7.10-1.0.2.jar
 versionId = ocJww0CQ
 
 sourceFileName = ASMC-1.7.10-1.0.2.jar
-
-[ChocoCraft]
-type = modrinth
-
-destination = mods/ChocoCraft-4.1.5.jar
-
-versionId = 1AmSO7cb
-
-sourceFileName = ChocoCraft-4.1.5.jar
 
 [Mekanism]
 type = modrinth
