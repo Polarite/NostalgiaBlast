@@ -44,7 +44,6 @@ recipes.remove(bedrockium);
 
 //adding
 
-furnace.addRecipe(<ExtraUtilities:decorativeBlock1:2>,<netherlicious:QuartzBricks:1> );
 recipes.addShaped(inviswings,[[glass,netherite,glass],[netherite,star,netherite],[unstableblock,netherite,unstableblock]]);
 recipes.addShaped(featherwings,[[feather,netherite,feather],[netherite,star,netherite],[unstableblock,netherite,unstableblock]]);
 recipes.addShaped(fairywings,[[purpledye,netherite,pinkdye],[netherite,star,netherite],[unstableblock,netherite,unstableblock]]);
