@@ -1654,24 +1654,24 @@ sourceFileName = SpecialMobs-1.7.10-3.2.2.jar
 [Uncharted]
 type = curseforge
 
-destination = mods/Uncharted - 1.7.10 - v03
+destination = mods/Uncharted_1.7.10_v03.jar
 
 projectId = 243470
 
 fileId = 2304482
 
-sourceFileName = Uncharted - 1.7.10 - v03
+sourceFileName = Uncharted_1.7.10_v03.jar
 
 [Shipwrecks!]
 type = curseforge
 
-destination = mods/shipwrecks-mc1.7.10-1.7.1
+destination = mods/shipwrecks-mc1.7.10-1.7.1.jar
 
 projectId = 291608
 
 fileId = 3275625
 
-sourceFileName = shipwrecks-mc1.7.10-1.7.1
+sourceFileName = shipwrecks-mc1.7.10-1.7.1.jar
 
 [NEIIntegration]
  type = curseforge
