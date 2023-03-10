@@ -79,13 +79,6 @@ destination = mods/BloodMagic-1.3.25.jar
 
 url = https://github.com/GTNewHorizons/BloodMagic/releases/download/1.3.25/BloodMagic-1.3.25.jar
 
-[Botania]
-type = url
-
-destination = mods/Botania-1.9.15-GTNH.jar
-
-url = https://github.com/GTNewHorizons/Botania/releases/download/1.9.15-GTNH/Botania-1.9.15-GTNH.jar
-
 [BugTorch]
 type = url
 
@@ -599,6 +592,17 @@ projectId = 296238
 fileId = 2610088
 
 sourceFileName = [1.7.10]+BetterFarmland+v0.0.3.1-BETA.jar
+
+[Botania]
+type = curseforge
+
+destination = mods/Botania+r1.8-249.jar
+
+projectId = 225643
+
+fileId = 2283837
+
+sourceFileName = Botania+r1.8-249.jar
 
 [BiblioCraft]
 type = curseforge
