@@ -26,6 +26,6 @@ mods.thermalexpansion.Smelter.removeRecipe(<ThermalExpansion:material:515>, neth
 
 recipes.addShaped(netherite*9 ,[[netherblock,null,null],[null,null,null],[null,null,null]]);
 recipes.addShaped(netherite,[[null,scrap,scrap],[scrap,scrap,gold],[gold,gold,gold]]);
-mods.thermalexpansion.Pulverizer.addRecipe(5000, netherite, dustnetherite);
+
 
 
