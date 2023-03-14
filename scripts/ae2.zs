@@ -34,7 +34,7 @@ mods.appeng.Inscriber.removeRecipe(<appliedenergistics2:item.ItemMultiMaterial:1
 
 //add
 
-mods.appeng.Grinder.addRecipe(netherite, <TabulaRasa:RasaItem0>, 5);
+
 recipes.addShaped(BIGcell,[[quartzglass,fluixdust,quartzglass],[fluixdust,BIGstorage,fluixdust],[netherite,netherite,netherite]]);
 recipes.addShaped(biggercell,[[quartzglass,fluixdust,quartzglass],[fluixdust,biggerstorage,fluixdust],[netherite,netherite,netherite]]);
 recipes.addShaped(biggishcell,[[quartzglass,fluixdust,quartzglass],[fluixdust,biggishstorage,fluixdust],[netherite,netherite,netherite]]);
