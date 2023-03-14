@@ -56,7 +56,7 @@ recipes.addShaped(chemcrystal,[[ic2casing,gastankult,ic2casing],[atomalloy,steel
 recipes.addShaped(purifchamber,[[reinforcedalloy,advancedcirc,reinforcedalloy],[osmium,enrichchamber,osmium],[reinforcedalloy,advancedcirc,reinforcedalloy]]);
 recipes.addShaped(armorjetpack,[[netherdust,null,netherdust],[bronze,steelblock,bronze],[null,jetpack,null]]);
 
-mods.mekanism.Crusher.addRecipe(netherite, netherdust);
+
 
 furnace.addRecipe(netherite, netherdust);
 
