@@ -458,7 +458,7 @@ move.jump.stand.vertical.factor:1
 
 
 # To switch on/off jumping while sneaking (Relevant only if nether "move.sneak" nor "move.jump" are false)
-move.jump.sneak:true
+move.jump.sneak:false
 
 # Horizontal sneak jumping factor relative to actual horizontal movement (>= 1)
 move.jump.sneak.horizontal.factor:1
@@ -920,7 +920,7 @@ move.exhaustion.normal.loss.factor:1
 
 
 # Whether exhaustion loss increases hunger
-move.exhaustion.hunger:true
+move.exhaustion.hunger:false
 
 # How much hunger is generated for exhaustion loss (>= 0)
 move.exhaustion.hunger.factor:0.05;e:0.02;h:0.08
@@ -1038,7 +1038,7 @@ move.mod.rope.replace.climb.rope:true
 move.config.survival.keys:e,m,h
 
 # The option configuration to start the next minecraft survival game with (can also be modified via in-game option configuration toggling)
-move.config.survival.keys.default:m
+move.config.survival.keys.default:e
 
 
 # A list of creative option configuration keys, entries seperated by ','
