@@ -458,7 +458,7 @@ move.jump.stand.vertical.factor:1
 
 
 # To switch on/off jumping while sneaking (Relevant only if nether "move.sneak" nor "move.jump" are false)
-move.jump.sneak:false
+move.jump.sneak:true
 
 # Horizontal sneak jumping factor relative to actual horizontal movement (>= 1)
 move.jump.sneak.horizontal.factor:1
