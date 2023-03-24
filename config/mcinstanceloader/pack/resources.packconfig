@@ -1217,13 +1217,13 @@ sourceFileName = netherlicious-3.2.8.jar
 [NotEnoughItems]
 type = curseforge
 
-destination = mods/NotEnoughItems-2.3.38-GTNH.jar
+destination = mods/NotEnoughItems-2.3.40-GTNH.jar
 
 projectId = 358228
 
-fileId = 4422980
+fileId = 4453003
 
-sourceFileName = NotEnoughItems-2.3.38-GTNH.jar
+sourceFileName = NotEnoughItems-2.3.40-GTNH.jar
 
 [NotEnoughResources]
 type = curseforge
@@ -1437,13 +1437,13 @@ sourceFileName = Thaumcraft-1.7.10-4.2.3.5.jar
 [Thaumcraft4Tweaks]
 type = curseforge
 
-destination = mods/Thaumcraft4Tweaks-1.5.2.jar
+destination = mods/Thaumcraft4Tweaks-1.5.3.jar
 
 projectId = 431297
 
-fileId = 4421658
+fileId = 4430401
 
-sourceFileName = Thaumcraft4Tweaks-1.5.2.jar
+sourceFileName = Thaumcraft4Tweaks-1.5.3.jar
 
 [ThaumcraftNEIplugin]
 type = curseforge
