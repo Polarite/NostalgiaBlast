@@ -13,10 +13,7 @@ var scrap = (<etfuturum:netherite_scrap>);
 recipes.remove(netherite);
 recipes.remove(<ThermalExpansion:florb>);
 recipes.remove(<ThermalExpansion:florb:1>);
-mods.thermalexpansion.Smelter.removeRecipe(<minecraft:sand>, netherdebris);
-mods.thermalexpansion.Smelter.removeRecipe(<ThermalFoundation:material:512>, netherdebris);
-mods.thermalexpansion.Smelter.removeRecipe(<ThermalFoundation:material:20>, netherdebris);
-mods.thermalexpansion.Smelter.removeRecipe(<ThermalExpansion:material:515>, netherdebris);
+
 
 
 
