@@ -1787,6 +1787,19 @@ sourceFileName = shipwrecks-mc1.7.10-1.7.1.jar
 
  optional = true
  
+ [ItemPhysics]
+ type = curseforge
+
+ destination = mods/ItemPhysic+Lite+1.1.5+mc1.7.10.jar
+
+ projectId = 270441
+
+ fileId = 2462371
+
+ sourceFileName = ItemPhysic+Lite+1.1.5+mc1.7.10.jar
+
+ optional = true
+ 
 
 
 
