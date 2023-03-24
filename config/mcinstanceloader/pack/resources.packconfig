@@ -5,23 +5,23 @@
 [AE2 Fluid Crafting]
 type = url
 
-destination = mods/ae2fc-1.0.91-gtnh.jar
+destination = mods/ae2fc-1.1.2-gtnh.jar
 
-url = https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.0.91-gtnh/ae2fc-1.0.91-gtnh.jar
+url = https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.1.2-gtnh/ae2fc-1.1.2-gtnh.jar
 
 [AE2 Stuff]
 type = url
 
-destination = mods/ae2stuff-1.7.10-0.5.1.15-GTNH.jar
+destination = mods/ae2stuff-0.5.1.16-GTNH.jar
 
-url = https://github.com/GTNewHorizons/ae2stuff/releases/download/0.5.1.15-GTNH/ae2stuff-1.7.10-0.5.1.15-GTNH.jar
+url = https://github.com/GTNewHorizons/ae2stuff/releases/download/0.5.1.16-GTNH/ae2stuff-0.5.1.16-GTNH.jar
 
 [AE2]
 type = url
 
-destination = mods/appliedenergistics2-rv3-beta-173-GTNH.jar
+destination = mods/appliedenergistics2-rv3-beta-184-GTNH.jar
 
-url = https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-173-GTNH/appliedenergistics2-rv3-beta-173-GTNH.jar
+url = https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-184-GTNH/appliedenergistics2-rv3-beta-184-GTNH.jar
 
 [ArchaicFix]
 type = url
@@ -54,9 +54,9 @@ url = https://github.com/GTNewHorizons/bdlib/releases/download/1.9.8-GTNH/bdlib-
 [BetterP2P]
 type = url
 
-destination = mods/betterp2p-1.0.23.jar
+destination = mods/betterp2p-1.1.3.jar
 
-url = https://github.com/GTNewHorizons/BetterP2P/releases/download/1.0.23/betterp2p-1.0.23.jar
+url = https://github.com/GTNewHorizons/BetterP2P/releases/download/1.1.3/betterp2p-1.1.3.jar
 
 [Binnie]
 type = url
@@ -82,9 +82,9 @@ url = https://github.com/GTNewHorizons/BloodMagic/releases/download/1.3.25/Blood
 [BugTorch]
 type = url
 
-destination = mods/bugtorch-1.2.5.jar
+destination = mods/bugtorch-1.2.7.jar
 
-url = https://github.com/jss2a98aj/BugTorch/releases/download/1.2.5/bugtorch-1.2.5.jar
+url = https://github.com/jss2a98aj/BugTorch/releases/download/1.2.7/bugtorch-1.2.7.jar
 
 [Chisel]
 type = url
@@ -103,16 +103,16 @@ url = https://github.com/GTNewHorizons/CraftTweaker/releases/download/3.2.11/Cra
 [EnderIO]
 type = url
 
-destination = mods/EnderIO-2.4.1-pre.jar
+destination = mods/EnderIO-2.4.6.jar
 
-url = https://github.com/GTNewHorizons/EnderIO/releases/download/2.4.1-pre/EnderIO-2.4.1-pre.jar
+url = https://github.com/GTNewHorizons/EnderIO/releases/download/2.4.6/EnderIO-2.4.6.jar
 
 [Forestry]
 type = url
 
-destination = mods/Forestry-4.5.8.jar
+destination = mods/Forestry-4.6.0.jar
 
-url = https://github.com/GTNewHorizons/ForestryMC/releases/download/4.5.8/Forestry-4.5.8.jar
+url = https://github.com/GTNewHorizons/ForestryMC/releases/download/4.6.0/Forestry-4.6.0.jar
 
 [FTBLib]
 type = url
@@ -152,9 +152,9 @@ url = https://github.com/Glease/Healer/releases/download/1.2.1/Healer-1.2.1.jar
 [HodgePodge]
 type = url
 
-destination = mods/hodgepodge-2.0.43.jar
+destination = mods/hodgepodge-2.2.3-pre.jar
 
-url = https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.0.43/hodgepodge-2.0.43.jar
+url = https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.2.3-pre/hodgepodge-2.2.3-pre.jar
 
 [Iguana Tweaks]
 type = url
@@ -169,13 +169,6 @@ type = url
 destination = mods/inventorytweaks-1.5.16.jar
 
 url = https://github.com/GTNewHorizons/inventory-tweaks/releases/download/1.5.16/inventorytweaks-1.5.16.jar
-
-[LazyDFU Agent] # I am sorry from where I am getting it, but main publisher deleted the mod and only way to get is from my archives.
-type = url
-
-destination = mods/lazydfu-1.0.0.jar
-
-url = https://dl.dropboxusercontent.com/s/9f3bxhihpwnof2b/lazydfu-agent-1.0.0.jar?dl=0
 
 [MagicBees]
 type = url
@@ -208,9 +201,9 @@ url = https://github.com/GTNewHorizons/neiaddons/releases/download/1.12.22/NEIAd
 [Neodymium]
 type = url
 
-destination = mods/neodymium-1.7.10-0.1.7.jar
+destination = mods/neodymium-1.7.10-0.1.8.jar
 
-url = https://github.com/makamys/Neodymium/releases/download/0.1.7/neodymium-1.7.10-0.1.7.jar
+url = https://github.com/makamys/Neodymium/releases/download/0.1.8/neodymium-1.7.10-0.1.8.jar
 
 [NetherPortalFix]
 type = url
@@ -229,9 +222,9 @@ url = https://github.com/draknyte1/Netty-Patcher/releases/download/Release_1/Net
 [Not Enough Energistics]
 type = url
 
-destination = mods/NotEnoughEnergistics-1.3.30.jar
+destination = mods/NotEnoughEnergistics-1.4.0.jar
 
-url = https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.3.30/NotEnoughEnergistics-1.3.30.jar
+url = https://github.com/GTNewHorizons/NotEnoughEnergistics/releases/download/1.4.0/NotEnoughEnergistics-1.4.0.jar
 
 [NOVA] # Looks like our version got removed, had to add from our source
 type = url
@@ -243,9 +236,9 @@ url = https://dl.dropboxusercontent.com/s/ujclz8p29f3u9k9/NOVA-2016-07-21-univer
 [Open Blocks]
 type = url
 
-destination = mods/OpenBlocks-1.6.10-GTNH.jar
+destination = mods/OpenBlocks-1.7.0-GTNH.jar
 
-url = https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.6.10-GTNH/OpenBlocks-1.6.10-GTNH.jar
+url = https://github.com/GTNewHorizons/OpenBlocks/releases/download/1.7.0-GTNH/OpenBlocks-1.7.0-GTNH.jar
 
 [RandomThings]
 type = url
@@ -292,9 +285,9 @@ url = https://github.com/GTNewHorizons/TCNEIAdditions/releases/download/1.1.1.10
 [ThaumicEnergistics]
 type=url
 
-destination = mods/thaumicenergistics-1.3.29-GTNH.jar
+destination = mods/thaumicenergistics-1.4.1-GTNH.jar
 
-url = https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.3.29-GTNH/thaumicenergistics-1.3.29-GTNH.jar
+url = https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.4.1-GTNH/thaumicenergistics-1.4.1-GTNH.jar
 
 [ThaumicTinkerer]
 type=url
@@ -320,9 +313,9 @@ url = https://github.com/GTNewHorizons/WailaHarvestability/releases/download/1.1
 [WAILAPlugins]
 type=url
 
-destination = mods/WAILAPlugins-1.7.10-0.2.5.jar
+destination = mods/WAILAPlugins-0.2.6.jar
 
-url = https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.2.5/WAILAPlugins-1.7.10-0.2.5.jar
+url = https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.2.6/WAILAPlugins-0.2.6.jar
 
 [Wawla]
 type=url
@@ -334,9 +327,9 @@ url = https://github.com/GTNewHorizons/WAWLA/releases/download/1.1.3-GTNH/Wawla-
 [WirelessCraftingTerminal]
 type=url
 
-destination = mods/WirelessCraftingTerminal-1.8.9.3.jar
+destination = mods/WirelessCraftingTerminal-1.9.0.jar
 
-url = https://github.com/GTNewHorizons/WirelessCraftingTerminal/releases/download/1.8.9.3/WirelessCraftingTerminal-1.8.9.3.jar
+url = https://github.com/GTNewHorizons/WirelessCraftingTerminal/releases/download/1.9.0/WirelessCraftingTerminal-1.9.0.jar
 
 [WitcheryExtras]
 type=url
