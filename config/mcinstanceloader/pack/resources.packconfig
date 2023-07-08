@@ -409,15 +409,6 @@ versionId = JSamMPmQ
 
 sourceFileName = NovaCraft Release V1.0.3.1 (1.7.10).jar
 
-[TabFaces]
-type = modrinth
-
-destination = mods/tabfaces-0.0.17-mc1.7.10.jar
-
-versionId = jLeKskrJ
-
-sourceFileName = tabfaces-0.0.17-mc1.7.10.jar
-
 [TileEntityResetFix]
 type = modrinth
 
