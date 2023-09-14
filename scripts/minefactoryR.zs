@@ -18,5 +18,6 @@ recipes.remove (<MineFactoryReloaded:plastic.sheet>);
 
 //adding recipes
 
-recipes.addShaped(plasticsh,[[hdpepellet,hdpepellet,null],[hdpepellet,hdpepellet,null],[null,null,null]]);
+recipes.addShaped(plasticsh,[[null,hdpepellet,null],[hdpepellet,null,hdpepellet],[null,hdpepellet,null]]);
+
 
