@@ -356,6 +356,14 @@ destination = mods/BetterAchievements-1.7.10-0.1.3.jar
 
 url = https://github.com/GTNewHorizons/BetterAchievements/releases/download/0.1.3/BetterAchievements-1.7.10-0.1.3.jar
 
+[NoMoreRecipeConflict]
+type=url
+
+destination = mods/NoMoreRecipeConflict-1.7.10-0.3.2.jar
+
+url = https://github.com/Jonius7/YetAnotherRecipeConflictFixer/releases/download/0.3.2/NoMoreRecipeConflict-1.7.10-0.3.2.jar
+
+
 
 
 
@@ -1856,7 +1864,7 @@ sourceFileName = shipwrecks-mc1.7.10-1.7.1.jar
 
  optional = true
  
- [ItemPhysics]
+[ItemPhysics]
  type = curseforge
 
  destination = mods/ItemPhysic+Lite+1.1.5+mc1.7.10.jar
@@ -1866,5 +1874,16 @@ sourceFileName = shipwrecks-mc1.7.10-1.7.1.jar
  fileId = 2462371
 
  sourceFileName = ItemPhysic+Lite+1.1.5+mc1.7.10.jar
+
+ optional = true
+
+[Zoomer]
+ type = modrinth
+
+ destination = mods/VeryLegacyZoomer-Forge-1.7.10-1.0.0.jar
+
+ versionId = aWx43gNH
+
+ sourceFileName = VeryLegacyZoomer-Forge-1.7.10-1.0.0.jar
 
  optional = true
