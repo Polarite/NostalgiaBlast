@@ -342,19 +342,22 @@ destination = mods/custommainmenu-1.7.10-1.9.4.jar
 
 url = https://github.com/GTNewHorizons/Custom-Main-Menu/releases/download/1.9.4/custommainmenu-1.7.10-1.9.4.jar
 
-[FairyLights]
+# [FairyLights]
+# type=url
+
+# destination = mods/fairylights-0.6-1.7.10.jar
+
+# url = http://www.mediafire.com/download/c7762itg7ezn70z/fairylights-0.6-1.7.10.jar
+
+[BetterAchievements]
 type=url
 
-destination = mods/fairylights-0.6-1.7.10.jar
+destination = mods/BetterAchievements-1.7.10-0.1.3.jar
 
-url = http://www.mediafire.com/download/c7762itg7ezn70z/fairylights-0.6-1.7.10.jar
+url = https://github.com/GTNewHorizons/BetterAchievements/releases/download/0.1.3/BetterAchievements-1.7.10-0.1.3.jar
 
-[FairyMod]
-type=url
 
-destination = mods/fairymod-0.5-1.7.10.jar
 
-url = http://www.mediafire.com/download/8b21cm2teumluai/fairymod-0.5-1.7.10.jar
 
 
 
@@ -442,6 +445,32 @@ versionId = Q2sof2BE
 
 sourceFileName =  Mekanism-Community-Edition-1.7.10-9.10.30-ALL.jar
 
+[Born in a Barn]
+type = modrinth
+
+destination = mods/Born in a Barn 1.7.x-1.1.jar
+
+versionId = WfPGKC8F
+
+sourceFileName = Born in a Barn 1.7.x-1.1.jar
+
+[backhand]
+type = modrinth
+
+destination = mods/backhand-1.4.0.jar
+
+versionId = Dwz9syqF
+
+sourceFileName = backhand-1.4.0.jar
+
+[multithreadingandtweaks]
+type = modrinth
+
+destination = mods/multithreadingandtweaks-V0.8.8.0.jar
+
+versionId = kkz7EA70
+
+sourceFileName = multithreadingandtweaks-V0.8.8.0.jar
 
 
 #[name]
@@ -1677,11 +1706,71 @@ sourceFileName = shipwrecks-mc1.7.10-1.7.1.jar
 
  sourceFileName = NEIIntegration-MC1.7.10-1.1.2.jar
 
+[ThaumicHorizons]
+ type = curseforge
 
+ destination = mods/ThaumicHorizons-1.3.5.jar
 
+ projectId = 227914
 
+ fileId = 4678690
 
+ sourceFileName = ThaumicHorizons-1.3.5.jar
 
+[ArchitectureCraft]
+ type = curseforge
+
+ destination = mods/ArchitectureCraft-1.7.2-mc1.7.10.jar
+
+ projectId = 242001
+
+ fileId = 2352554
+
+ sourceFileName = ArchitectureCraft-1.7.2-mc1.7.10.jar
+
+[NiftyBlocks]
+ type = curseforge
+
+ destination = mods/NiftyBlocks-1.11.jar
+
+ projectId = 228189
+
+ fileId = 2506678
+
+ sourceFileName = NiftyBlocks-1.11.jar
+
+[Ztones]
+ type = curseforge
+
+ destination = mods/Ztones-1.7.10-2.2.1.jar
+
+ projectId = 224369
+ 
+ fileId = 2223720
+
+ sourceFileName = Ztones-1.7.10-2.2.1.jar
+
+[ChiselTones]
+ type = curseforge
+
+ destination = mods/ChiselTones-1.7.10-1.0-3.jar
+
+ projectId = 224369
+ 
+ fileId = 2223720
+
+ sourceFileName = ChiselTones-1.7.10-1.0-3.jar
+
+[simplepings]
+ type = curseforge
+
+ destination = mods/simplepings-1.7.10-1.0.0.jar
+
+ projectId = 906070
+
+ fileId = 4719577
+
+ sourceFileName = simplepings-1.7.10-1.0.0.jar
 
 # [name]
 # type = curseforge
@@ -1779,36 +1868,3 @@ sourceFileName = shipwrecks-mc1.7.10-1.7.1.jar
  sourceFileName = ItemPhysic+Lite+1.1.5+mc1.7.10.jar
 
  optional = true
- 
-[ThaumicHorizons]
-type = curseforge
-
-destination = mods/ThaumicHorizons-1.3.5.jar
-
-projectId = 227914
-
-fileId = 4678690
-
-sourceFileName = ThaumicHorizons-1.3.5.jar
-
-[ArchitectureCraft]
-type = curseforge
-
-destination = mods/ArchitectureCraft-1.7.2-mc1.7.10.jar
-
-projectId = 242001
-
-fileId = 2352554
-
-sourceFileName = ArchitectureCraft-1.7.2-mc1.7.10.jar
-
-[BetterAchievements]
-type = curseforge
-
-destination = mods/BetterAchievements-1.7.10-0.1.0.jar
-
-projectId = 235716
-
-fileId = 2260793
-
-sourceFileName = BetterAchievements-1.7.10-0.1.0.jar
