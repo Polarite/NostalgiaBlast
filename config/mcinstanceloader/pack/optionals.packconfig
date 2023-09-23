@@ -9,7 +9,7 @@ minchoices = 1
 
 
 option1.name = Optifine   
-option1.description = Install Optifine and fastcraft with more features but with less optimization. We cant support you if theres an issue related to optifine sadly.   # The description of the option, used to indicate more precisely to the user what this choice does.
+option1.description = Install Optifine and fastcraft with more features but with less optimization. We cant support you if theres an issue related to optifine sadly.
 option1.default = true
 option1.resources = Optifine, FastCraft
 
@@ -31,6 +31,11 @@ option1.name = Item Physics
 option1.description = Enable Item Physics client side, might affect performance
 option1.default = true
 option1.resources = ItemPhysics
+
+option2.name = Better Foliage
+option2.description = Better Foliage is a mod that improves leaves look for performance
+option2.default = true
+option2.resources = BetterFoliage
 
 [Menu 3]
 title = [Resource Packs]
