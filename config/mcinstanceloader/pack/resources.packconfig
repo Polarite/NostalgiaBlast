@@ -1676,17 +1676,6 @@ fileId = 2279900
 
 sourceFileName = SpecialMobs-1.7.10-3.2.2.jar
 
-[Uncharted]
-type = curseforge
-
-destination = mods/Uncharted_1.7.10_v03.jar
-
-projectId = 243470
-
-fileId = 2304482
-
-sourceFileName = Uncharted_1.7.10_v03.jar
-
 [Shipwrecks!]
 type = curseforge
 
@@ -1824,13 +1813,13 @@ sourceFileName = shipwrecks-mc1.7.10-1.7.1.jar
 [updatedtextures]
  type = curseforge
 
- destination = resourcepacks/Modernity-format1-v3.8.1.zip
+ destination = resourcepacks/Modernity-format3-v3.9.1.zip
 
  projectId = 300317
 
- fileId = 4376271
+ fileId = 4753035
 
- sourceFileName = Modernity-format1-v3.8.1.zip
+ sourceFileName = Modernity-format3-v3.9.1.zip
 
  optional = true
  
