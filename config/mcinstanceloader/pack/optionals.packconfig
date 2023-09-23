@@ -21,7 +21,7 @@ option2.resources = Notfine, Zoomer
 
 [Menu 2]
 
-maxchoices = 1
+maxchoices = 2
 minchoices = 0
 
 title = [Optional Mods]   
