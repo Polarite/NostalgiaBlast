@@ -342,12 +342,19 @@ destination = mods/custommainmenu-1.7.10-1.9.4.jar
 
 url = https://github.com/GTNewHorizons/Custom-Main-Menu/releases/download/1.9.4/custommainmenu-1.7.10-1.9.4.jar
 
-# [FairyLights]
-# type=url
+[FairyLights]
+ type=url
 
-# destination = mods/fairylights-0.6-1.7.10.jar
+ destination = mods/fairylights-0.6-1.7.10.jar
 
-# url = http://www.mediafire.com/download/c7762itg7ezn70z/fairylights-0.6-1.7.10.jar
+ url = https://dl.dropboxusercontent.com/scl/fi/ctnoy0oawmk5brtxt38xk/fairylights-0.6-1.7.10.jar?rlkey=bku1hjmxoexumseuzv6hszchv&dl=0
+
+[FairyMod]
+ type=url
+
+ destination = mods/fairymod-0.5-1.7.10-1.jar
+
+ url = https://dl.dropboxusercontent.com/scl/fi/az58kc1gjwh5ah7k6l2zi/fairymod-0.5-1.7.10-1.jar?rlkey=ounkpun1xueqq0y79z66f5xc3&dl=0
 
 [BetterAchievements]
 type=url
