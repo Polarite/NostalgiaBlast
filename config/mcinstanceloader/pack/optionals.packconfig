@@ -17,7 +17,7 @@ option1.resources = Optifine, FastCraft
 option2.name = Custom Optimizations
 option2.description = These are the optimizations made by the developers of the pack. Higher optimization. Less features.
 option2.default = true
-option2.resources = Notfine
+option2.resources = Notfine, Zoomer
 
 [Menu 2]
 
