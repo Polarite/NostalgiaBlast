@@ -12,23 +12,23 @@ url = https://github.com/GTNewHorizons/AE2FluidCraft-Rework/releases/download/1.
 [AE2 Stuff]
 type = url
 
-destination = mods/ae2stuff-0.5.7-GTNH.jar
+destination = mods/ae2stuff-0.6.0-GTNH.jar
 
-url = https://github.com/GTNewHorizons/ae2stuff/releases/download/0.5.7-GTNH/ae2stuff-0.5.7-GTNH.jar
+url = https://github.com/GTNewHorizons/ae2stuff/releases/download/0.6.0-GTNH/ae2stuff-0.6.0-GTNH.jar
 
 [AE2]
 type = url
 
-destination = mods/appliedenergistics2-rv3-beta-252-GTNH.jar
+destination = mods/appliedenergistics2-rv3-beta-256-GTNH.jar
 
-url = https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-252-GTNH/appliedenergistics2-rv3-beta-252-GTNH.jar
+url = https://github.com/GTNewHorizons/Applied-Energistics-2-Unofficial/releases/download/rv3-beta-256-GTNH/appliedenergistics2-rv3-beta-256-GTNH.jar
 
 [ArchaicFix]
 type = url
 
-destination = mods/archaicfix-0.6.1.jar
+destination = mods/archaicfix-0.6.2.jar
 
-url = https://github.com/embeddedt/ArchaicFix/releases/download/0.6.1/archaicfix-0.6.1.jar
+url = https://github.com/embeddedt/ArchaicFix/releases/download/0.6.2/archaicfix-0.6.2.jar
 
 [Backpack]
 type = url
@@ -61,9 +61,9 @@ url = https://github.com/GTNewHorizons/BetterP2P/releases/download/1.1.20/better
 [Binnie]
 type = url
 
-destination = mods/binnie-mods-2.1.10.jar
+destination = mods/binnie-mods-2.2.0.jar
 
-url = https://github.com/GTNewHorizons/Binnie/releases/download/2.1.10/binnie-mods-2.1.10.jar
+url = https://github.com/GTNewHorizons/Binnie/releases/download/2.2.0/binnie-mods-2.2.0.jar
 
 [Blood Arsenal]
 type = url
@@ -103,9 +103,9 @@ url = https://github.com/GTNewHorizons/CraftTweaker/releases/download/3.2.13/Cra
 [EnderIO]
 type = url
 
-destination = mods/EnderIO-2.4.24.jar
+destination = mods/EnderIO-2.5.0.jar
 
-url = https://github.com/GTNewHorizons/EnderIO/releases/download/2.4.24/EnderIO-2.4.24.jar
+url = https://github.com/GTNewHorizons/EnderIO/releases/download/2.5.0/EnderIO-2.5.0.jar
 
 [Forestry]
 type = url
@@ -152,9 +152,9 @@ url = https://github.com/Glease/Healer/releases/download/1.2.1/Healer-1.2.1.jar
 [HodgePodge]
 type = url
 
-destination = mods/hodgepodge-2.2.31.jar
+destination = mods/hodgepodge-2.3.5.jar
 
-url = https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.2.31/hodgepodge-2.2.31.jar
+url = https://github.com/GTNewHorizons/Hodgepodge/releases/download/2.3.5/hodgepodge-2.3.5.jar
 
 [Iguana Tweaks]
 type = url
@@ -173,9 +173,9 @@ url = https://github.com/GTNewHorizons/inventory-tweaks/releases/download/1.5.16
 [MagicBees]
 type = url
 
-destination = mods/magicbees-2.6.6-GTNH.jar
+destination = mods/magicbees-2.7.0-GTNH.jar
 
-url = https://github.com/GTNewHorizons/MagicBees/releases/download/2.6.6-GTNH/magicbees-2.6.6-GTNH.jar
+url = https://github.com/GTNewHorizons/MagicBees/releases/download/2.7.0-GTNH/magicbees-2.7.0-GTNH.jar
 
 [ModTweaker]
 type = url
@@ -286,12 +286,13 @@ type=url
 destination = mods/thaumicenergistics-1.4.13-GTNH.jar
 
 url = https://github.com/GTNewHorizons/ThaumicEnergistics/releases/download/1.4.13-GTNH/thaumicenergistics-1.4.13-GTNH.jar
+
 [ThaumicTinkerer]
 type=url
 
-destination = mods/ThaumicTinkerer-2.7.1.jar
+destination = mods/ThaumicTinkerer-2.8.2.jar
 
-url = https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.7.1/ThaumicTinkerer-2.7.1.jar
+url = https://github.com/GTNewHorizons/ThaumicTinkerer/releases/download/2.8.2/ThaumicTinkerer-2.8.2.jar
 
 [Waila]
 type=url
@@ -310,9 +311,9 @@ url = https://github.com/GTNewHorizons/WailaHarvestability/releases/download/1.1
 [WAILAPlugins]
 type=url
 
-destination = mods/WAILAPlugins-0.2.6.jar
+destination = mods/WAILAPlugins-0.3.0.jar
 
-url = https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.2.8/WAILAPlugins-0.2.8.jar
+url = https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.3.0/WAILAPlugins-0.3.0.jar
 
 [Wawla]
 type=url
@@ -465,11 +466,11 @@ sourceFileName = ASMC-1.7.10-1.0.2.jar
 [Mekanism]
 type = modrinth
 
-destination = mods/Mekanism-Community-Edition-1.7.10-9.10.30-ALL.jar
+destination = mods/Mekanism-Community-Edition-1.7.10-9.10.31-ALL.jar
 
-versionId = Q2sof2BE
+versionId = PJqw394h
 
-sourceFileName =  Mekanism-Community-Edition-1.7.10-9.10.30-ALL.jar
+sourceFileName =  Mekanism-Community-Edition-1.7.10-9.10.31-ALL.jar
 
 [Born in a Barn]
 type = modrinth
@@ -908,11 +909,11 @@ sourceFileName = enderutilities-1.7.10-0.5.3.jar
 [Et Futurum]
 type = curseforge
 
-destination = mods/Et_Futurum_Requiem-2.4.3+nomixin.jar
+destination = mods/Et_Futurum_Requiem-2.5.0.jar
 
 projectId = 441392
 
-fileId = 4524196
+fileId = 4756622
 
 sourceFileName = Et_Futurum_Requiem-2.4.3+nomixin.jar
 
@@ -1261,11 +1262,11 @@ sourceFileName = netherlicious-3.2.8.jar
 [NotEnoughItems]
 type = curseforge
 
-destination = mods/NotEnoughItems-2.3.83-GTNH.jar
+destination = mods/NotEnoughItems-2.4.2-GTNH.jar
 
 projectId = 358228
 
-fileId = 4711133
+fileId = 4753664
 
 sourceFileName = NotEnoughItems-2.3.83-GTNH.jar
 
@@ -1778,13 +1779,13 @@ sourceFileName = shipwrecks-mc1.7.10-1.7.1.jar
 [FastCraft]
  type = curseforge
 
- destination = mods/fastcraft-1.23.jar
+ destination = mods/fastcraft-1.25.jar
 
  projectId = 242677
 
- fileId = 2292386
+ fileId = 2522249
 
- sourceFileName = fastcraft-1.23.jar
+ sourceFileName = fastcraft-1.25.jar
 
  optional = true
 
@@ -1793,11 +1794,11 @@ sourceFileName = shipwrecks-mc1.7.10-1.7.1.jar
 
  destination = mods/Optifine.jar
 
- url = https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_D6.jar
+ url = https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_E7.jar
 
  follows = Download
 
- optional = true
+ optional = true 
 
 [Notfine]
  type = url
@@ -1867,3 +1868,16 @@ sourceFileName = shipwrecks-mc1.7.10-1.7.1.jar
  sourceFileName = VeryLegacyZoomer-Forge-1.7.10-1.0.0.jar
 
  optional = true
+
+[BetterFoliage]
+ type = curseforge
+
+ destination = mods/BetterFoliage-MC1.7.10-2.0.17.jar
+
+ projectId = 228529
+
+ fileId = 2500869
+
+ sourceFileName = BetterFoliage-MC1.7.10-2.0.17.jar
+
+ optional = true 
