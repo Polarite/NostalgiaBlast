@@ -601,17 +601,6 @@ fileId = 2530879
 
 sourceFileName = AppleCore-mc1.7.10-3.1.1.jar 
 
-[Baublestuff]
-type = curseforge
-
-destination = mods/baublesstuff-2.1.2.jar
-
-projectId = 236988
-
-fileId = 2298162
-
-sourceFileName = baublesstuff-2.1.2.jar
-
 [BeeBetterAtBees]
 type = curseforge
 
