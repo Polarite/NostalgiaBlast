@@ -370,6 +370,12 @@ destination = mods/SpecialMobs-3.4.3.jar
 
 url = https://github.com/GTNewHorizons/SpecialMobs/releases/tag/3.4.3
 
+[ChiselTones]
+type=url
+
+destination = mods/chiseltones-1.7.10-1.0.4-GTNH.jar
+
+url = https://github.com/GTNewHorizons/ChiselTones/releases/download/1.0.4-GTNH/chiseltones-1.7.10-1.0.4-GTNH.jar
 
 
 
@@ -1757,17 +1763,6 @@ sourceFileName = shipwrecks-mc1.7.10-1.7.1.jar
  fileId = 2223720
 
  sourceFileName = Ztones-1.7.10-2.2.1.jar
-
-[ChiselTones]
- type = curseforge
-
- destination = mods/ChiselTones-1.7.10-1.0-3.jar
-
- projectId = 224369
- 
- fileId = 2223720
-
- sourceFileName = ChiselTones-1.7.10-1.0-3.jar
 
 [simplepings]
  type = curseforge
