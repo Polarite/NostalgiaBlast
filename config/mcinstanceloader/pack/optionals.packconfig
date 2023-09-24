@@ -21,7 +21,7 @@ option2.resources = Notfine, Zoomer
 
 [Menu 2]
 
-maxchoices = 2
+maxchoices = 3
 minchoices = 0
 
 title = [Optional Mods]   
@@ -36,6 +36,11 @@ option2.name = Better Foliage
 option2.description = Better Foliage is a mod that improves leaves look for performance
 option2.default = true
 option2.resources = BetterFoliage
+
+option3.name = MUlti Threading
+option3.description = If you have a powerful computer this will increase chunk generation speed. Dont use othervise.
+option3.default = false
+option3.resources = multithreadingandtweaks
 
 [Menu 3]
 title = [Resource Packs]
