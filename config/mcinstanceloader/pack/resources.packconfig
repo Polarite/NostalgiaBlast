@@ -497,6 +497,8 @@ destination = mods/multithreadingandtweaks-V0.8.8.0.jar
 
 versionId = kkz7EA70
 
+optional = true
+
 sourceFileName = multithreadingandtweaks-V0.8.8.0.jar
 
 
