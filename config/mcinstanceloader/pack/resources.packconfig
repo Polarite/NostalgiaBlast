@@ -376,7 +376,7 @@ type=url
 
 destination = mods/SpecialMobs-3.4.3.jar
 
-url = https://github.com/GTNewHorizons/SpecialMobs/releases/tag/3.4.3
+url = https://github.com/GTNewHorizons/SpecialMobs/releases/download/3.4.3/SpecialMobs-3.4.3.jar
 
 [ChiselTones]
 type=url
