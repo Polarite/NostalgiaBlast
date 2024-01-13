@@ -385,7 +385,7 @@ url = https://github.com/GTNewHorizons/ChiselTones/releases/download/1.1.0-GTNH/
 [CodechickenLib]
 type=url
 
-destination = mods/CodeChickenLib-1.2.1.jar
+destination = mods/1.7.10/CodeChickenLib-1.2.1.jar
 
 url = https://github.com/GTNewHorizons/CodeChickenLib/releases/download/1.2.1/CodeChickenLib-1.2.1.jar
 
