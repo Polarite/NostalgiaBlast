@@ -421,11 +421,11 @@ sourceFileName = immersivecavegen-1.2g-hotfix5.jar
 [Novacraft]
 type = modrinth
 
-destination = mods/NovaCraft V1.2.1 (1.7.10).jar
+destination = mods/NovaCraft V1.3 (1.7.10).jar
 
-versionId = 60wukTBJ
+versionId = xeCqejw4
 
-sourceFileName = NovaCraft V1.2.1 (1.7.10).jar
+sourceFileName = NovaCraft V1.3 (1.7.10).jar
 
 [TileEntityResetFix]
 type = modrinth
@@ -457,11 +457,11 @@ sourceFileName = ASMC-1.7.10-1.0.2.jar
 [Mekanism]
 type = modrinth
 
-destination = mods/Mekanism-Community-Edition-1.7.10-9.10.31-ALL.jar
+destination = mods/Mekanism-Community-Edition-1.7.10-9.10.33-ALL.jar
 
-versionId = PJqw394h
+versionId = VxKSii0o
 
-sourceFileName =  Mekanism-Community-Edition-1.7.10-9.10.31-ALL.jar
+sourceFileName =  Mekanism-Community-Edition-1.7.10-9.10.33-ALL.jar
 
 [Born in a Barn]
 type = modrinth
@@ -481,15 +481,50 @@ versionId = lIOJTqrY
 
 sourceFileName = backhand-1.4.0.jar
 
-[multithreadingandtweaks]
+[optimizationsandtweaks]
 type = modrinth
 
-destination = mods/multithreadingandtweaks-V0.8.8.0.jar
+destination = mods/optimizationsandtweaks-V1.11.5.jar
 
-versionId = kkz7EA70
+versionId = u0V67WEe
 
-sourceFileName = multithreadingandtweaks-V0.8.8.0.jar
+sourceFileName = optimizationsandtweaks-V1.11.5.jar
 
+[Blahaj]
+type = modrinth
+
+destination = mods/blahaj-1.0.jar
+
+versionId = eHAKOhJr
+
+sourceFileName = blahaj-1.0.jar
+
+[alfheim]
+type = modrinth
+
+destination = mods/Alfheim-52.jar
+
+versionId = qmhv9zO9
+
+sourceFileName = Alfheim-52.jar
+
+[asjcore]
+type = modrinth
+
+destination = mods/1.7.10-ASJCore-1.2.4.1.jar
+
+versionId = 1imQH7i1
+
+sourceFileName = 1.7.10-ASJCore-1.2.4.1.jar
+
+[SantasDecor]
+type = modrinth
+
+destination = mods/SantasDecor-1.7.10-1.0.2.jar
+
+versionId = LOWBF2Lw
+
+sourceFileName = SantasDecor-1.7.10-1.0.2.jar
 
 #[name]
 #type = modrinth
@@ -900,13 +935,13 @@ sourceFileName = enderutilities-1.7.10-0.5.3.jar
 [Et Futurum]
 type = curseforge
 
-destination = mods/Et_Futurum_Requiem-2.5.0.jar
+destination = mods/Et_Futurum_Requiem-2.5.1.jar
 
 projectId = 441392
 
-fileId = 4756622
+fileId = 4769523
 
-sourceFileName = Et_Futurum_Requiem-2.4.3+nomixin.jar
+sourceFileName = Et_Futurum_Requiem-2.5.1.jar
 
 [ExtraTiC]
 type = curseforge
@@ -1253,13 +1288,13 @@ sourceFileName = netherlicious-3.2.8.jar
 [NotEnoughItems]
 type = curseforge
 
-destination = mods/NotEnoughItems-2.4.2-GTNH.jar
+destination = mods/NotEnoughItems-2.4.13-GTNH.jar
 
 projectId = 358228
 
-fileId = 4753664
+fileId = 4923403
 
-sourceFileName = NotEnoughItems-2.3.83-GTNH.jar
+sourceFileName = NotEnoughItems-2.4.13-GTNH.jar
 
 [NotEnoughResources]
 type = curseforge
@@ -1475,13 +1510,13 @@ sourceFileName = Thaumcraft-1.7.10-4.2.3.5.jar
 [Thaumcraft4Tweaks]
 type = curseforge
 
-destination = mods/Thaumcraft4Tweaks-1.5.3.jar
+destination = mods/Thaumcraft4Tweaks-1.5.20.jar
 
 projectId = 431297
 
-fileId = 4684726
+fileId = 5027275
 
-sourceFileName = Thaumcraft4Tweaks-1.5.3.jar
+sourceFileName = Thaumcraft4Tweaks-1.5.20.jar
 
 [ThaumcraftNEIplugin]
 type = curseforge
@@ -1618,24 +1653,24 @@ sourceFileName = witchery-1.7.10-0.24.1.jar
 [Xaero's Minimap]
 type = curseforge
 
-destination = mods/Xaeros_Minimap_21.10.38_Forge_1.7.10.jar
+destination = mods/Xaeros_Minimap_21.10.40_Forge_1.7.10.jar
 
 projectId = 263420
 
-fileId = 4716681
+fileId = 4905582
 
-sourceFileName = Xaeros_Minimap_21.10.38_Forge_1.7.10.jar
+sourceFileName = Xaeros_Minimap_21.10.40_Forge_1.7.10.jar
 
 [Xaero's Worldmap]
 type = curseforge
 
-destination = mods/XaerosWorldMap_1.14.1.29_Forge_1.7.10.jar
+destination = mods/XaerosWorldMap_1.14.1.30_Forge_1.7.10.jar
 
 projectId = 317780
 
-fileId = 4716737
+fileId = 4905612
 
-sourceFileName = XaerosWorldMap_1.14.1.29_Forge_1.7.10.jar
+sourceFileName = XaerosWorldMap_1.14.1.30_Forge_1.7.10.jar
 
 [BloodBaubles]
 type = curseforge
@@ -1747,6 +1782,18 @@ sourceFileName = shipwrecks-mc1.7.10-1.7.1.jar
  fileId = 4719577
 
  sourceFileName = simplepings-1.7.10-1.0.0.jar
+
+ [waterhook]
+ type = curseforge
+
+ destination = mods/waterhooks-1.2.1.jar
+
+ projectId = 236204
+
+ fileId = 2297446
+
+ sourceFileName = waterhooks-1.2.1.jar
+
 
 # [name]
 # type = curseforge
