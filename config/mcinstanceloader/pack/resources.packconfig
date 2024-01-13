@@ -1052,17 +1052,6 @@ projectId = 235092
 
 fileId = 4464624
 
-[Already Decorating Fix]
-type = curseforge
-
-destination = mods/alreadydecoratingfix-1.0a.jar
-
-projectId = 533258
-
-fileId = 3479308
-
-sourceFileName = alreadydecoratingfix-1.0a.jar
-
 sourceFileName = growthcraft-1.7.10-2.7.2-complete.jar
 
 [GuideAPI]
@@ -1262,17 +1251,6 @@ projectId = 243205
 fileId = 2309559
 
 sourceFileName = [1.7.10]MoVillages-1.4.2.jar
-
-[Mowzies Mobs]
-type = curseforge
-
-destination = mods/MowziesMobs-1.2.99.jar
-
-projectId = 250498
-
-fileId = 2327392
-
-sourceFileName = MowziesMobs-1.2.99.jar
 
 [MrCrayfishFurnitureMod]
 type = curseforge
