@@ -322,9 +322,9 @@ url = https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.3.0/WAIL
 [Wawla]
 type=url
 
-destination = mods/WAILAPlugins-0.4.0.jar
+destination = mods/Wawla-1.2.0-GTNH.jar
 
-url = https://github.com/GTNewHorizons/WAILAPlugins/releases/download/0.4.0/WAILAPlugins-0.4.0.jar
+url = https://github.com/GTNewHorizons/WAWLA/releases/download/1.2.0-GTNH/Wawla-1.2.0-GTNH.jar
 
 [WirelessCraftingTerminal]
 type=url
@@ -1676,12 +1676,6 @@ projectId = 227875
 fileId = 2227584
 
 sourceFileName = InfernalMobs-1.7.10.jar
-
-projectId = 59968
-
-fileId = 2279900
-
-sourceFileName = SpecialMobs-1.7.10-3.2.2.jar
 
 [Shipwrecks!]
 type = curseforge
