@@ -382,7 +382,19 @@ destination = mods/chiseltones-1.1.0-GTNH.jar
 
 url = https://github.com/GTNewHorizons/ChiselTones/releases/download/1.1.0-GTNH/chiseltones-1.1.0-GTNH.jar
 
+[CodechickenLib]
+type=url
 
+destination = mods/CodeChickenLib-1.2.1.jar
+
+url = https://github.com/GTNewHorizons/CodeChickenLib/releases/download/1.2.1/CodeChickenLib-1.2.1.jar
+
+[CodeChickenCore-1.2.1.jar]
+type=url
+
+destination = mods/CodeChickenCore-1.2.1.jar
+
+url = https://github.com/GTNewHorizons/CodeChickenCore/releases/download/1.2.1/CodeChickenCore-1.2.1.jar
 
 
 
@@ -396,24 +408,6 @@ destination = mods/BaublesExpanded-2.1.4.jar
 versionId = uVJG9ptZ
 
 sourceFileName = BaublesExpanded-2.1.4.jar
-
-[CodeChickenCore]
-type = modrinth
-
-destination = mods/CodeChickenCore-1.1.11.jar
-
-versionId = uK1V66Fl
-
-sourceFileName = CodeChickenCore-1.1.11.jar
-
-[CodeChickenLib]
-type = modrinth
-
-destination = mods/CCodeChickenLib-1.1.8.jar
-
-versionId = 7rlH2gFw
-
-sourceFileName = CodeChickenLib-1.1.8.jar
 
 [Immersive Cavegen]
 type = modrinth
