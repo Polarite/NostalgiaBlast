@@ -1052,6 +1052,17 @@ projectId = 235092
 
 fileId = 4464624
 
+[Already Decorating Fix]
+type = curseforge
+
+destination = mods/alreadydecoratingfix-1.0a.jar
+
+projectId = 533258
+
+fileId = 3479308
+
+sourceFileName = alreadydecoratingfix-1.0a.jar
+
 sourceFileName = growthcraft-1.7.10-2.7.2-complete.jar
 
 [GuideAPI]
