@@ -375,9 +375,6 @@ destination = mods/NoMoreRecipeConflict-1.7.10-0.3.2.jar
 
 url = https://github.com/Jonius7/YetAnotherRecipeConflictFixer/releases/download/0.3.2/NoMoreRecipeConflict-1.7.10-0.3.2.jar
 
-[SpecialMobs]
-type=url
-
 [ChiselTones]
 type=url
 
