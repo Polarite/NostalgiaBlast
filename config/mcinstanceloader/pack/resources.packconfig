@@ -89,9 +89,9 @@ url = https://github.com/jss2a98aj/BugTorch/releases/download/1.2.11/bugtorch-1.
 [Chisel]
 type = url
 
-destination = mods/chisel-2.13.4-GTNH.jar
+destination = mods/chisel-2.11.4-GTNH.jar
 
-url = https://github.com/GTNewHorizons/Chisel/releases/download/2.13.4-GTNH/chisel-2.13.4-GTNH.jar
+url = https://github.com/GTNewHorizons/Chisel/releases/download/2.11.4-GTNH/chisel-2.11.4-GTNH.jar
 
 [Craft Tweaker]
 type = url
