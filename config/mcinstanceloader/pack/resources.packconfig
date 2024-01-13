@@ -499,23 +499,23 @@ versionId = eHAKOhJr
 
 sourceFileName = blahaj-1.0.jar
 
-[alfheim]
-type = modrinth
+# [alfheim]
+# type = modrinth
 
-destination = mods/Alfheim-52.jar
+# destination = mods/Alfheim-52.jar
 
-versionId = qmhv9zO9
+# versionId = qmhv9zO9
 
-sourceFileName = Alfheim-52.jar
+# sourceFileName = Alfheim-52.jar
+# Disabled until the incompatibilities are fixed
+# [asjcore]
+# type = modrinth
 
-[asjcore]
-type = modrinth
+# destination = mods/1.7.10-ASJCore-1.2.4.1.jar
 
-destination = mods/1.7.10-ASJCore-1.2.4.1.jar
+# versionId = 1imQH7i1
 
-versionId = 1imQH7i1
-
-sourceFileName = 1.7.10-ASJCore-1.2.4.1.jar
+# sourceFileName = 1.7.10-ASJCore-1.2.4.1.jar
 
 [SantasDecor]
 type = modrinth
