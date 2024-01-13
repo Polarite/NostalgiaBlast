@@ -9,19 +9,19 @@ minchoices = 1
 
 
 option1.name = Optifine   
-option1.description = Install Optifine and fastcraft with more features but with less optimization. We cant support you if theres an issue related to optifine sadly.
+option1.description = Less performance but shader support. Not actively supported.
 option1.default = true
 option1.resources = Optifine, FastCraft
 
 
 option2.name = Custom Optimizations
-option2.description = These are the optimizations made by the developers of the pack. Higher optimization. Less features.
+option2.description = Higher optimization but no shader support.
 option2.default = true
-option2.resources = Notfine, Zoomer
+option2.resources = angelica, Zoomer
 
 [Menu 2]
 
-maxchoices = 3
+maxchoices = 2
 minchoices = 0
 
 title = [Optional Mods]   
@@ -32,20 +32,15 @@ option1.description = Enable Item Physics client side, might affect performance
 option1.default = true
 option1.resources = ItemPhysics
 
-option2.name = Better Foliage
-option2.description = Better Foliage is a mod that improves leaves look for performance
-option2.default = true
-option2.resources = BetterFoliage
-
-option3.name = MUlti Threading
-option3.description = If you have a powerful computer this will increase chunk generation speed. Dont use othervise.
-option3.default = false
-option3.resources = multithreadingandtweaks
+option2.name = Multi Threading
+option2.description = If you have a powerful computer this will increase chunk generation speed. Dont use othervise.
+option2.default = false
+option2.resources = multithreadingandtweaks
 
 [Menu 3]
 title = [Resource Packs]
 
-option1.name = Updated Textures For Mods
-option1.description = This is extras for updated textures, made by Astrotibs, you need to enable texturepack later on, suggested because I have implemented embed future textures already
+option1.name = Modern Textures For Mods
+option1.description = Manually enabling from texturepacks tab is needed.
 option1.default = true
 option1.resources = updatedtextures 
